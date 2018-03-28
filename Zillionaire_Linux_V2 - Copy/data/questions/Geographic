@@ -1,0 +1,600 @@
+[
+  {
+    "Answers": [
+      {
+        "Answer": "United States",
+        "Rating": 25
+      },
+      {
+        "Answer": "Norway",
+        "Rating": 2
+      },
+      {
+        "Answer": "Australia",
+        "Rating": 2
+      },
+      {
+        "Answer": "Antarctica",
+        "Rating": 71
+      }
+    ],
+    "Question": "Adelie Land is a French territory on the coast of which continent?",
+    "Level": 2,
+    "id": 0
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Huddersfield And Wakefield",
+        "Rating": 12
+      },
+      {
+        "Answer": "Stockton and Darlington",
+        "Rating": 60
+      },
+      {
+        "Answer": "Leeds and Liverpool",
+        "Rating": 24
+      },
+      {
+        "Answer": "Hull and Manchester",
+        "Rating": 4
+      }
+    ],
+    "Question": "Between which towns was the railway for Stephenson\u0027s first locomotive?",
+    "Level": 0,
+    "id": 1
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "South Africa",
+        "Rating": 19
+      },
+      {
+        "Answer": "Zimbabwe",
+        "Rating": 2
+      },
+      {
+        "Answer": "Angola",
+        "Rating": 53
+      },
+      {
+        "Answer": "Nigeria",
+        "Rating": 26
+      }
+    ],
+    "Question": "By what name is Portuguese West Africa now known?",
+    "Level": 0,
+    "id": 2
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Granville",
+        "Rating": 0
+      },
+      {
+        "Answer": "Bayonee",
+        "Rating": 1
+      },
+      {
+        "Answer": "Dunkirk",
+        "Rating": 62
+      },
+      {
+        "Answer": "Port Vendres",
+        "Rating": 37
+      }
+    ],
+    "Question": "From which port was the bulk of the British Expeditionary Force in France evacuated in 1940?",
+    "Level": 2,
+    "id": 3
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "England",
+        "Rating": 29
+      },
+      {
+        "Answer": "Wales",
+        "Rating": 65
+      },
+      {
+        "Answer": "Ireland",
+        "Rating": 6
+      },
+      {
+        "Answer": "Scotland",
+        "Rating": 0
+      }
+    ],
+    "Question": "Which country is home to the town with the longest non-hyphenated name? ",
+    "Level": 2,
+    "id": 4
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "East",
+        "Rating": 56
+      },
+      {
+        "Answer": "West",
+        "Rating": 37
+      },
+      {
+        "Answer": "South",
+        "Rating": 1
+      },
+      {
+        "Answer": "North",
+        "Rating": 6
+      }
+    ],
+    "Question": "What is the only compass direction that does not begin the name of a U.S. state? ",
+    "Level": 2,
+    "id": 5
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Texas, Alaska, California, New Mexico",
+        "Rating": 30
+      },
+      {
+        "Answer": "Alaska, Texas, California, Montana",
+        "Rating": 65
+      },
+      {
+        "Answer": "California, Alaska, Texas, Delaware",
+        "Rating": 4
+      },
+      {
+        "Answer": "Alaska, Texas, California, New Jersey",
+        "Rating": 1
+      }
+    ],
+    "Question": "What are the four largest states of the U.S. in order of size, starting with the largest? ",
+    "Level": 2,
+    "id": 6
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Nevada",
+        "Rating": 17
+      },
+      {
+        "Answer": "Utah",
+        "Rating": 26
+      },
+      {
+        "Answer": "Montana",
+        "Rating": 3
+      },
+      {
+        "Answer": "Arizona",
+        "Rating": 54
+      }
+    ],
+    "Question": "What U.S. state has been called \"The Grand Canyon State\"? ",
+    "Level": 1,
+    "id": 7
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "The Daffodill",
+        "Rating": 25
+      },
+      {
+        "Answer": "The Tulip",
+        "Rating": 54
+      },
+      {
+        "Answer": "The Crocus",
+        "Rating": 16
+      },
+      {
+        "Answer": "The Hyacinth",
+        "Rating": 5
+      }
+    ],
+    "Question": "What is the national flower of Holland and Hungary? ",
+    "Level": 1,
+    "id": 8
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Greece",
+        "Rating": 63
+      },
+      {
+        "Answer": "Turkey",
+        "Rating": 29
+      },
+      {
+        "Answer": "Albania",
+        "Rating": 8
+      },
+      {
+        "Answer": "Bulgaria",
+        "Rating": 0
+      }
+    ],
+    "Question": "Which country is also referred to as \u0027Hellas\u0027? ",
+    "Level": 1,
+    "id": 9
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Mali",
+        "Rating": 11
+      },
+      {
+        "Answer": "Niger",
+        "Rating": 18
+      },
+      {
+        "Answer": "Algeria",
+        "Rating": 0
+      },
+      {
+        "Answer": "Sudan",
+        "Rating": 71
+      }
+    ],
+    "Question": "Which country directly borders Egypt to the south?",
+    "Level": 1,
+    "id": 10
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Borneo",
+        "Rating": 13
+      },
+      {
+        "Answer": "New Guinea",
+        "Rating": 2
+      },
+      {
+        "Answer": "Greenland",
+        "Rating": 64
+      },
+      {
+        "Answer": "Madagascar",
+        "Rating": 21
+      }
+    ],
+    "Question": "What is the Earth\u0027s largest island, that is not also a continent?",
+    "Level": 0,
+    "id": 11
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Red Sea",
+        "Rating": 22
+      },
+      {
+        "Answer": "Jerusalem",
+        "Rating": 7
+      },
+      {
+        "Answer": "Dead Sea",
+        "Rating": 61
+      },
+      {
+        "Answer": "Ramon Crater",
+        "Rating": 10
+      }
+    ],
+    "Question": "The lowest surface point in the world can be found in Israel. Can you name this salty place? ",
+    "Level": 0,
+    "id": 12
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Oregon",
+        "Rating": 2
+      },
+      {
+        "Answer": "Washington",
+        "Rating": 58
+      },
+      {
+        "Answer": "California",
+        "Rating": 9
+      },
+      {
+        "Answer": "Idaho",
+        "Rating": 31
+      }
+    ],
+    "Question": "Olympia is the capital of what state whose university\u0027s nickname is the Huskies?",
+    "Level": 0,
+    "id": 13
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Cambridge",
+        "Rating": 6
+      },
+      {
+        "Answer": "Worcester",
+        "Rating": 13
+      },
+      {
+        "Answer": "Boston",
+        "Rating": 75
+      },
+      {
+        "Answer": "Springfield",
+        "Rating": 6
+      }
+    ],
+    "Question": "What Massachusetts city is known for baked beans, Celtics, Bruins, and Patriots? ",
+    "Level": 1,
+    "id": 14
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Kabul",
+        "Rating": 8
+      },
+      {
+        "Answer": "Tibet",
+        "Rating": 50
+      },
+      {
+        "Answer": "Ulan Bator",
+        "Rating": 18
+      },
+      {
+        "Answer": "Tashkent",
+        "Rating": 24
+      }
+    ],
+    "Question": "The highest palace in the world is located in Asia. Where is it? ",
+    "Level": 0,
+    "id": 15
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Carmel",
+        "Rating": 0
+      },
+      {
+        "Answer": "Hershey",
+        "Rating": 53
+      },
+      {
+        "Answer": "Cocoa",
+        "Rating": 47
+      },
+      {
+        "Answer": "Ding Dong",
+        "Rating": 0
+      }
+    ],
+    "Question": "What city has been dubbed the Chocolate Capital of the United States? ",
+    "Level": 2,
+    "id": 16
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Utah",
+        "Rating": 5
+      },
+      {
+        "Answer": "Nevada",
+        "Rating": 58
+      },
+      {
+        "Answer": "Utah",
+        "Rating": 0
+      },
+      {
+        "Answer": "California",
+        "Rating": 37
+      }
+    ],
+    "Question": "Carson City is the capital of which state known as the Silver State? ",
+    "Level": 2,
+    "id": 17
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "England, Scotland, Wales and Ireland",
+        "Rating": 24
+      },
+      {
+        "Answer": "Scotland, Wales, Ireland and Northern Ireland",
+        "Rating": 5
+      },
+      {
+        "Answer": "England, Scotland, Wales and Northern Ireland",
+        "Rating": 64
+      },
+      {
+        "Answer": "England, Scotland, Wales and Cornwall",
+        "Rating": 7
+      }
+    ],
+    "Question": "The United Kingdom (UK) is an island and a sovereign state consisting of four countries. Which are these countries?",
+    "Level": 2,
+    "id": 18
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Leo Tolstoy",
+        "Rating": 5
+      },
+      {
+        "Answer": "Mark Twain",
+        "Rating": 2
+      },
+      {
+        "Answer": "William Shakespeare",
+        "Rating": 66
+      },
+      {
+        "Answer": "Victor Hugo",
+        "Rating": 27
+      }
+    ],
+    "Question": "Of the following writers, which was British?",
+    "Level": 2,
+    "id": 19
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Spanish",
+        "Rating": 2
+      },
+      {
+        "Answer": "French",
+        "Rating": 20
+      },
+      {
+        "Answer": "English",
+        "Rating": 58
+      },
+      {
+        "Answer": "Dutch",
+        "Rating": 20
+      }
+    ],
+    "Question": "What is the official language in UK?",
+    "Level": 0,
+    "id": 20
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Musee d\u0027 Orsay",
+        "Rating": 10
+      },
+      {
+        "Answer": "The Leaning Tower of Pisa",
+        "Rating": 17
+      },
+      {
+        "Answer": "St.Paul\u0027s Cathedral",
+        "Rating": 61
+      },
+      {
+        "Answer": "The Statue of Liberty",
+        "Rating": 12
+      }
+    ],
+    "Question": "Which of the following famous buildings you might see in UK? ",
+    "Level": 0,
+    "id": 21
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Dean Martin",
+        "Rating": 2
+      },
+      {
+        "Answer": "Frank Sinatra",
+        "Rating": 15
+      },
+      {
+        "Answer": "Paul McCartney",
+        "Rating": 62
+      },
+      {
+        "Answer": "Johnny Hallyday",
+        "Rating": 21
+      }
+    ],
+    "Question": "Who of the following is famous British singer?",
+    "Level": 1,
+    "id": 22
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "A Music Festival",
+        "Rating": 63
+      },
+      {
+        "Answer": "A Dance Competition for College Students",
+        "Rating": 23
+      },
+      {
+        "Answer": "A General Arts Festival",
+        "Rating": 11
+      },
+      {
+        "Answer": "A Television Talent Competition",
+        "Rating": 3
+      }
+    ],
+    "Question": "Held annually in London, what are \"The Proms\"?",
+    "Level": 1,
+    "id": 23
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Pizza",
+        "Rating": 5
+      },
+      {
+        "Answer": "Fish And Chips",
+        "Rating": 71
+      },
+      {
+        "Answer": "Rote Grutze",
+        "Rating": 9
+      },
+      {
+        "Answer": "French Onion Soup",
+        "Rating": 15
+      }
+    ],
+    "Question": "Which of the following dishes is a typical British speciality?",
+    "Level": 0,
+    "id": 24
+  },
+  {
+    "id": 25,
+    "Question": "Where is Lithuania geographically located? ",
+    "Level": 0,
+    "Answers": [
+      {
+        "Answer": "In Africa",
+        "Rating": 0
+      },
+      {
+        "Answer": "in Europe",
+        "Rating": 100
+      },
+      {
+        "Answer": "In North America",
+        "Rating": 0
+      },
+      {
+        "Answer": "in South America",
+        "Rating": 0
+      }
+    ]
+  }
+]

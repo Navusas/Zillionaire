@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Zillionaire">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/Zillionaire.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

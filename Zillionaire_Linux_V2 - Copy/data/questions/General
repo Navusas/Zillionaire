@@ -1,0 +1,2394 @@
+[
+  {
+    "Answers": [
+      {
+        "Answer": "Elephants",
+        "Rating": 11
+      },
+      {
+        "Answer": "Monkeys",
+        "Rating": 3
+      },
+      {
+        "Answer": "Dolphins",
+        "Rating": 26
+      },
+      {
+        "Answer": "Camels",
+        "Rating": 60
+      }
+    ],
+    "Question": "A caravan is a group of which animals?",
+    "Level": 0,
+    "id": 0
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Goblin",
+        "Rating": 23
+      },
+      {
+        "Answer": "Dog",
+        "Rating": 4
+      },
+      {
+        "Answer": "Swan",
+        "Rating": 64
+      },
+      {
+        "Answer": "Cat",
+        "Rating": 9
+      }
+    ],
+    "Question": "A cob is a male of which creature?",
+    "Level": 0,
+    "id": 1
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Harmful organisms plants",
+        "Rating": 22
+      },
+      {
+        "Answer": "A hybrid",
+        "Rating": 61
+      },
+      {
+        "Answer": "A new specie",
+        "Rating": 6
+      },
+      {
+        "Answer": "Modified Organisms",
+        "Rating": 11
+      }
+    ],
+    "Question": "A plant produced by crossing different species is known as what?",
+    "Level": 0,
+    "id": 2
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Gilbert Arizona",
+        "Rating": 4
+      },
+      {
+        "Answer": "Draper Utah",
+        "Rating": 1
+      },
+      {
+        "Answer": "Chicago Illinois",
+        "Rating": 37
+      },
+      {
+        "Answer": "Diana",
+        "Rating": 58
+      }
+    ],
+    "Question": "A temple to whom was sited at Ephesus?",
+    "Level": 2,
+    "id": 3
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Opponent grounds",
+        "Rating": 31
+      },
+      {
+        "Answer": "Its stomach",
+        "Rating": 54
+      },
+      {
+        "Answer": "Wages",
+        "Rating": 12
+      },
+      {
+        "Answer": "Shoes",
+        "Rating": 3
+      }
+    ],
+    "Question": "According to Napoleon, what does an army march on?",
+    "Level": 1,
+    "id": 4
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Skills",
+        "Rating": 24
+      },
+      {
+        "Answer": "Salary Amount",
+        "Rating": 1
+      },
+      {
+        "Answer": "Knowledge",
+        "Rating": 75
+      },
+      {
+        "Answer": "Amount of Friends",
+        "Rating": 0
+      }
+    ],
+    "Question": "According to proverb, a little what is a dangerous thing?",
+    "Level": 0,
+    "id": 5
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Survival source",
+        "Rating": 21
+      },
+      {
+        "Answer": "Friend",
+        "Rating": 4
+      },
+      {
+        "Answer": "Poison",
+        "Rating": 75
+      },
+      {
+        "Answer": "Empathy",
+        "Rating": 0
+      }
+    ],
+    "Question": "According to proverb, one man\u0027s meat is another man\u0027s what?",
+    "Level": 0,
+    "id": 6
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Lithuanian army in XVI century",
+        "Rating": 25
+      },
+      {
+        "Answer": "Scottish Highland soldiers in kilts",
+        "Rating": 59
+      },
+      {
+        "Answer": "Rock Band in Germany",
+        "Rating": 0
+      },
+      {
+        "Answer": "Napaleons soldiers",
+        "Rating": 16
+      }
+    ],
+    "Question": "According to the Germans, who were the \u0027Ladies from Hell\u0027?",
+    "Level": 1,
+    "id": 7
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Free fruit",
+        "Rating": 31
+      },
+      {
+        "Answer": "Pear",
+        "Rating": 3
+      },
+      {
+        "Answer": "Apple",
+        "Rating": 9
+      },
+      {
+        "Answer": "Forbidden fruit",
+        "Rating": 57
+      }
+    ],
+    "Question": "According to the proverb which fruit tastes sweetest?",
+    "Level": 2,
+    "id": 8
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Mercedes-Benz",
+        "Rating": 1
+      },
+      {
+        "Answer": "Audi",
+        "Rating": 23
+      },
+      {
+        "Answer": "Hispano Suiza",
+        "Rating": 69
+      },
+      {
+        "Answer": "BMW",
+        "Rating": 7
+      }
+    ],
+    "Question": "After Ettore Bugatti\u0027s death in 1947, which company took over Bugatti?",
+    "Level": 2,
+    "id": 9
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Apollo",
+        "Rating": 2
+      },
+      {
+        "Answer": "Damon",
+        "Rating": 28
+      },
+      {
+        "Answer": "Dionysius",
+        "Rating": 4
+      },
+      {
+        "Answer": "Morpheus",
+        "Rating": 66
+      }
+    ],
+    "Question": "After which mythological Greek character was the drug morphine named?",
+    "Level": 2,
+    "id": 10
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Patricia",
+        "Rating": 60
+      },
+      {
+        "Answer": "Annie",
+        "Rating": 11
+      },
+      {
+        "Answer": "Clarice",
+        "Rating": 6
+      },
+      {
+        "Answer": "Bella",
+        "Rating": 23
+      }
+    ],
+    "Question": "Alfred Hitchcock\u0027s daughter appeared in \u0027Psycho\u0027. What is her name?",
+    "Level": 2,
+    "id": 11
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Sikh",
+        "Rating": 58
+      },
+      {
+        "Answer": "Jerusalem ",
+        "Rating": 1
+      },
+      {
+        "Answer": "Hebron",
+        "Rating": 37
+      },
+      {
+        "Answer": "Tiberias",
+        "Rating": 4
+      }
+    ],
+    "Question": "Amritsar is a holy city for the followers of which religion?",
+    "Level": 2,
+    "id": 12
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "City",
+        "Rating": 10
+      },
+      {
+        "Answer": "Animal",
+        "Rating": 66
+      },
+      {
+        "Answer": "Vegetable",
+        "Rating": 10
+      },
+      {
+        "Answer": "Mineral",
+        "Rating": 14
+      }
+    ],
+    "Question": "Are sea-urchins animal, vegetable, mineral o city?",
+    "Level": 0,
+    "id": 13
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Producer",
+        "Rating": 4
+      },
+      {
+        "Answer": "Actor",
+        "Rating": 22
+      },
+      {
+        "Answer": "Racing leader",
+        "Rating": 13
+      },
+      {
+        "Answer": "Fashion leader",
+        "Rating": 61
+      }
+    ],
+    "Question": "As what did Beau Brummel achieve fame?",
+    "Level": 1,
+    "id": 14
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Mime",
+        "Rating": 21
+      },
+      {
+        "Answer": "Clown",
+        "Rating": 60
+      },
+      {
+        "Answer": "Actor",
+        "Rating": 8
+      },
+      {
+        "Answer": "F1 Racer",
+        "Rating": 11
+      }
+    ],
+    "Question": "As what did Grimaldi achieve fame?",
+    "Level": 1,
+    "id": 15
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Red",
+        "Rating": 7
+      },
+      {
+        "Answer": "Green",
+        "Rating": 75
+      },
+      {
+        "Answer": "Blue",
+        "Rating": 17
+      },
+      {
+        "Answer": "White",
+        "Rating": 1
+      }
+    ],
+    "Question": "At night what colour light is shown on the starboard side of a ship?",
+    "Level": 0,
+    "id": 16
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "- 20",
+        "Rating": 0
+      },
+      {
+        "Answer": "Zero",
+        "Rating": 67
+      },
+      {
+        "Answer": "-176",
+        "Rating": 0
+      },
+      {
+        "Answer": "10",
+        "Rating": 33
+      }
+    ],
+    "Question": "At what degree Celsius does water freeze?",
+    "Level": 0,
+    "id": 17
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "21 hands and over",
+        "Rating": 18
+      },
+      {
+        "Answer": "20 hands and over",
+        "Rating": 7
+      },
+      {
+        "Answer": "11 hands and over",
+        "Rating": 1
+      },
+      {
+        "Answer": "14.2 hands and over",
+        "Rating": 74
+      }
+    ],
+    "Question": "At what height does a pony become a horse?",
+    "Level": 0,
+    "id": 18
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "1475 invasion of France",
+        "Rating": 1
+      },
+      {
+        "Answer": "Battle of Bosworth",
+        "Rating": 55
+      },
+      {
+        "Answer": "Battle of Wakefield",
+        "Rating": 3
+      },
+      {
+        "Answer": "War with Scotland",
+        "Rating": 41
+      }
+    ],
+    "Question": "At which battle was Richard III killed?",
+    "Level": 1,
+    "id": 19
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "The Grid 2",
+        "Rating": 29
+      },
+      {
+        "Answer": "Bridge",
+        "Rating": 65
+      },
+      {
+        "Answer": "Farm Simulator",
+        "Rating": 5
+      },
+      {
+        "Answer": "The Sims 2",
+        "Rating": 1
+      }
+    ],
+    "Question": "At which game has Omar Sharif represented his country?",
+    "Level": 1,
+    "id": 20
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Silver",
+        "Rating": 15
+      },
+      {
+        "Answer": "Argon",
+        "Rating": 17
+      },
+      {
+        "Answer": "Gold",
+        "Rating": 61
+      },
+      {
+        "Answer": "Bohrium",
+        "Rating": 7
+      }
+    ],
+    "Question": "Au is the symbol of which chemical element?",
+    "Level": 0,
+    "id": 21
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Monkeys",
+        "Rating": 0
+      },
+      {
+        "Answer": "Birds",
+        "Rating": 59
+      },
+      {
+        "Answer": "Donkeys",
+        "Rating": 2
+      },
+      {
+        "Answer": "Dolphins",
+        "Rating": 39
+      }
+    ],
+    "Question": "Avian relates to which kind of creatures?",
+    "Level": 0,
+    "id": 22
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Marketplaces",
+        "Rating": 4
+      },
+      {
+        "Answer": "Windmills",
+        "Rating": 30
+      },
+      {
+        "Answer": "Farmhouses",
+        "Rating": 10
+      },
+      {
+        "Answer": "Castles",
+        "Rating": 56
+      }
+    ],
+    "Question": "Beaumaris, Conway and Harlech are famous for what type of building?",
+    "Level": 1,
+    "id": 23
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Vitamin B1",
+        "Rating": 67
+      },
+      {
+        "Answer": "Vitamin C",
+        "Rating": 10
+      },
+      {
+        "Answer": "Vitamin D",
+        "Rating": 5
+      },
+      {
+        "Answer": "Zinc",
+        "Rating": 18
+      }
+    ],
+    "Question": "Beriberi results from a lack of which vitamin?",
+    "Level": 0,
+    "id": 24
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "The brain",
+        "Rating": 54
+      },
+      {
+        "Answer": "Muscles",
+        "Rating": 9
+      },
+      {
+        "Answer": "The blood",
+        "Rating": 16
+      },
+      {
+        "Answer": "The bones",
+        "Rating": 21
+      }
+    ],
+    "Question": "Betz cells are found in which part of the body?",
+    "Level": 2,
+    "id": 25
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Apple",
+        "Rating": 13
+      },
+      {
+        "Answer": "Microsoft",
+        "Rating": 69
+      },
+      {
+        "Answer": "Motorola",
+        "Rating": 16
+      },
+      {
+        "Answer": "Samsung",
+        "Rating": 2
+      }
+    ],
+    "Question": "Bill Gates founded which computer corporation?",
+    "Level": 0,
+    "id": 26
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Maple",
+        "Rating": 22
+      },
+      {
+        "Answer": "Oak",
+        "Rating": 0
+      },
+      {
+        "Answer": "Poplar",
+        "Rating": 61
+      },
+      {
+        "Answer": "Butternut",
+        "Rating": 17
+      }
+    ],
+    "Question": "Black, Italian and Lombardy are all types of which tree?",
+    "Level": 1,
+    "id": 27
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "April Fool\u0027s Day",
+        "Rating": 60
+      },
+      {
+        "Answer": "The Swallow",
+        "Rating": 12
+      },
+      {
+        "Answer": "Unluckiest Day of the Year",
+        "Rating": 10
+      },
+      {
+        "Answer": "Garland Day",
+        "Rating": 18
+      }
+    ],
+    "Question": "Boob Day is the Spanish equivalent of what in Britain?",
+    "Level": 1,
+    "id": 28
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Dr Samuel Johnson",
+        "Rating": 51
+      },
+      {
+        "Answer": "William Shakespeare",
+        "Rating": 9
+      },
+      {
+        "Answer": "Leo Tolstoy",
+        "Rating": 4
+      },
+      {
+        "Answer": "Stephen King",
+        "Rating": 36
+      }
+    ],
+    "Question": "Boswell wrote the biography of which famous writer?",
+    "Level": 2,
+    "id": 29
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Footballer",
+        "Rating": 13
+      },
+      {
+        "Answer": "Doctor",
+        "Rating": 9
+      },
+      {
+        "Answer": "Teacher",
+        "Rating": 12
+      },
+      {
+        "Answer": "Architect",
+        "Rating": 66
+      }
+    ],
+    "Question": "Brazilian Oscar Niemeyer followed which profession?",
+    "Level": 0,
+    "id": 30
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Kidneys",
+        "Rating": 63
+      },
+      {
+        "Answer": "Brain",
+        "Rating": 32
+      },
+      {
+        "Answer": "Tooth",
+        "Rating": 1
+      },
+      {
+        "Answer": "Stomach",
+        "Rating": 4
+      }
+    ],
+    "Question": "Bright\u0027s disease affects which organs of the body?",
+    "Level": 0,
+    "id": 31
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Donkeys",
+        "Rating": 30
+      },
+      {
+        "Answer": "Monkeys",
+        "Rating": 0
+      },
+      {
+        "Answer": "Chickens",
+        "Rating": 68
+      },
+      {
+        "Answer": "Rabbits",
+        "Rating": 2
+      }
+    ],
+    "Question": "Buff Orpingtons and Plymouth Rocks are types of what?",
+    "Level": 1,
+    "id": 32
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Nitrous",
+        "Rating": 8
+      },
+      {
+        "Answer": "Laughing gas",
+        "Rating": 61
+      },
+      {
+        "Answer": "Medical gas",
+        "Rating": 0
+      },
+      {
+        "Answer": "Air",
+        "Rating": 31
+      }
+    ],
+    "Question": "By what name do we often call nitrous oxide?",
+    "Level": 0,
+    "id": 33
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Harry Potter",
+        "Rating": 0
+      },
+      {
+        "Answer": "Bing Crosby",
+        "Rating": 44
+      },
+      {
+        "Answer": "The Sundance Kid",
+        "Rating": 54
+      },
+      {
+        "Answer": "Peter Sellers",
+        "Rating": 2
+      }
+    ],
+    "Question": "By what name was the outlaw Harry Longbaugh better known?",
+    "Level": 1,
+    "id": 34
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Scarface",
+        "Rating": 10
+      },
+      {
+        "Answer": "The Boston Strangler",
+        "Rating": 65
+      },
+      {
+        "Answer": "Blackbeard",
+        "Rating": 12
+      },
+      {
+        "Answer": "Jack the Ripper",
+        "Rating": 13
+      }
+    ],
+    "Question": "By what nickname was the criminal Albert De Salvo better known?",
+    "Level": 2,
+    "id": 35
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Professor",
+        "Rating": 0
+      },
+      {
+        "Answer": "Senior",
+        "Rating": 1
+      },
+      {
+        "Answer": "Pro-chancellor",
+        "Rating": 45
+      },
+      {
+        "Answer": "Poet Laureate",
+        "Rating": 54
+      }
+    ],
+    "Question": "C.Day Lewis and John Betjeman have both held which title?",
+    "Level": 2,
+    "id": 36
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Dog",
+        "Rating": 0
+      },
+      {
+        "Answer": "Penguins",
+        "Rating": 49
+      },
+      {
+        "Answer": "Dolphins",
+        "Rating": 1
+      },
+      {
+        "Answer": "Sea-lions",
+        "Rating": 50
+      }
+    ],
+    "Question": "Californian and Stellar\u0027s are types of what?",
+    "Level": 1,
+    "id": 37
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "1",
+        "Rating": 25
+      },
+      {
+        "Answer": "9",
+        "Rating": 0
+      },
+      {
+        "Answer": "16",
+        "Rating": 11
+      },
+      {
+        "Answer": "24",
+        "Rating": 64
+      }
+    ],
+    "Question": "Chemically pure gold contains how many carats?",
+    "Level": 0,
+    "id": 38
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Magnesium",
+        "Rating": 4
+      },
+      {
+        "Answer": "Tin",
+        "Rating": 30
+      },
+      {
+        "Answer": "Carbon",
+        "Rating": 66
+      },
+      {
+        "Answer": "Radon",
+        "Rating": 0
+      }
+    ],
+    "Question": "Coal is composed of which element?",
+    "Level": 1,
+    "id": 39
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "The Mind",
+        "Rating": 15
+      },
+      {
+        "Answer": "Relationships",
+        "Rating": 1
+      },
+      {
+        "Answer": "Leaders",
+        "Rating": 11
+      },
+      {
+        "Answer": "\u0027...and absolute power corrupts absolutely.\u0027",
+        "Rating": 73
+      }
+    ],
+    "Question": "Complete Lord Acton\u0027s phrase \u0027Power tends to corrupt...  \u0027?",
+    "Level": 2,
+    "id": 40
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Perry Mason",
+        "Rating": 70
+      },
+      {
+        "Answer": "Jonathon Wilk",
+        "Rating": 5
+      },
+      {
+        "Answer": "Forrest Bedford",
+        "Rating": 7
+      },
+      {
+        "Answer": "Rusty Sabich",
+        "Rating": 18
+      }
+    ],
+    "Question": "Della Street was secretary to which famous legal character?",
+    "Level": 2,
+    "id": 41
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "The Supremes",
+        "Rating": 64
+      },
+      {
+        "Answer": "Rock Band",
+        "Rating": 31
+      },
+      {
+        "Answer": "Actress Group",
+        "Rating": 1
+      },
+      {
+        "Answer": "\u0027Secret Law\u0027",
+        "Rating": 4
+      }
+    ],
+    "Question": "Diana Ross, Florence Ballard and Mary Wilson formed what?",
+    "Level": 2,
+    "id": 42
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Hindu",
+        "Rating": 53
+      },
+      {
+        "Answer": "Christianity",
+        "Rating": 11
+      },
+      {
+        "Answer": "Islam",
+        "Rating": 30
+      },
+      {
+        "Answer": "Judaism",
+        "Rating": 6
+      }
+    ],
+    "Question": "Divali, or the Festival of Lights, is a celebration in which religion?",
+    "Level": 0,
+    "id": 43
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Hello",
+        "Rating": 31
+      },
+      {
+        "Answer": "Thank you",
+        "Rating": 10
+      },
+      {
+        "Answer": "Thursday",
+        "Rating": 58
+      },
+      {
+        "Answer": "I love you",
+        "Rating": 1
+      }
+    ],
+    "Question": "In Germany \u0027Donnerstag\u0027 means what?",
+    "Level": 0,
+    "id": 44
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "The Universe",
+        "Rating": 20
+      },
+      {
+        "Answer": "Time",
+        "Rating": 54
+      },
+      {
+        "Answer": "The Stars",
+        "Rating": 8
+      },
+      {
+        "Answer": "The Earth",
+        "Rating": 18
+      }
+    ],
+    "Question": "Dr Stephen Hawking wrote a brief history of what?",
+    "Level": 0,
+    "id": 45
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "1",
+        "Rating": 14
+      },
+      {
+        "Answer": "6",
+        "Rating": 8
+      },
+      {
+        "Answer": "3",
+        "Rating": 13
+      },
+      {
+        "Answer": "40",
+        "Rating": 65
+      }
+    ],
+    "Question": "During how many days was Jesus tempted while in the wilderness?",
+    "Level": 1,
+    "id": 46
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "The Boer War",
+        "Rating": 58
+      },
+      {
+        "Answer": "World War I",
+        "Rating": 0
+      },
+      {
+        "Answer": "Battle of Marakesh",
+        "Rating": 35
+      },
+      {
+        "Answer": "Worl War II",
+        "Rating": 7
+      }
+    ],
+    "Question": "During which war were concentration camps first introduced?",
+    "Level": 1,
+    "id": 47
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "New York",
+        "Rating": 59
+      },
+      {
+        "Answer": "Paris",
+        "Rating": 15
+      },
+      {
+        "Answer": "London",
+        "Rating": 10
+      },
+      {
+        "Answer": "Vilnius",
+        "Rating": 16
+      }
+    ],
+    "Question": "Ed Koch was the mayor of which town?",
+    "Level": 0,
+    "id": 48
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Crab",
+        "Rating": 50
+      },
+      {
+        "Answer": "Donkey",
+        "Rating": 15
+      },
+      {
+        "Answer": "Monkey",
+        "Rating": 3
+      },
+      {
+        "Answer": "Dolphin",
+        "Rating": 32
+      }
+    ],
+    "Question": "Edible, blue and hermit are all types of which creature?",
+    "Level": 0,
+    "id": 49
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Fifth harmony",
+        "Rating": 24
+      },
+      {
+        "Answer": "Green Day",
+        "Rating": 6
+      },
+      {
+        "Answer": "Hot Chocolate",
+        "Rating": 62
+      },
+      {
+        "Answer": "Nirvana",
+        "Rating": 8
+      }
+    ],
+    "Question": "Errol Brown is lead singer with which group?",
+    "Level": 0,
+    "id": 50
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "The Duke of Hamilton",
+        "Rating": 19
+      },
+      {
+        "Answer": "The Dute of Atholl",
+        "Rating": 3
+      },
+      {
+        "Answer": "The Duke of Roxburgh",
+        "Rating": 59
+      },
+      {
+        "Answer": "The Duke of Montrose",
+        "Rating": 19
+      }
+    ],
+    "Question": "Floors Castle is the Scottish home of which duke?",
+    "Level": 2,
+    "id": 51
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "60 years",
+        "Rating": 4
+      },
+      {
+        "Answer": "24 years",
+        "Rating": 36
+      },
+      {
+        "Answer": "1 year",
+        "Rating": 6
+      },
+      {
+        "Answer": "12 years",
+        "Rating": 54
+      }
+    ],
+    "Question": "For how long did Alexander the Great rule?",
+    "Level": 2,
+    "id": 52
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "First Female Precident in UK",
+        "Rating": 1
+      },
+      {
+        "Answer": "First Female Teacher in UK",
+        "Rating": 18
+      },
+      {
+        "Answer": "First Woman in Space",
+        "Rating": 66
+      },
+      {
+        "Answer": "First Women In Moon",
+        "Rating": 15
+      }
+    ],
+    "Question": "For what achievement is Valentina Tereshkova famous?",
+    "Level": 1,
+    "id": 53
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Mime",
+        "Rating": 22
+      },
+      {
+        "Answer": "Soprano Singer",
+        "Rating": 67
+      },
+      {
+        "Answer": "Clown",
+        "Rating": 1
+      },
+      {
+        "Answer": "Ballet",
+        "Rating": 10
+      }
+    ],
+    "Question": "For what did the Swede Jenny Lind achieve fame?",
+    "Level": 1,
+    "id": 54
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Its jokes",
+        "Rating": 14
+      },
+      {
+        "Answer": "Its passion play ",
+        "Rating": 60
+      },
+      {
+        "Answer": "Its thesis",
+        "Rating": 14
+      },
+      {
+        "Answer": "its gameplay",
+        "Rating": 12
+      }
+    ],
+    "Question": "For what is Oberammergau famous?",
+    "Level": 2,
+    "id": 55
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Grapes",
+        "Rating": 18
+      },
+      {
+        "Answer": "Wines",
+        "Rating": 54
+      },
+      {
+        "Answer": "Groceries",
+        "Rating": 20
+      },
+      {
+        "Answer": "Landmarks",
+        "Rating": 8
+      }
+    ],
+    "Question": "For what is the Medoc area of France famous?",
+    "Level": 1,
+    "id": 56
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "The Huddersfield Examiner",
+        "Rating": 4
+      },
+      {
+        "Answer": "The Observer",
+        "Rating": 56
+      },
+      {
+        "Answer": "The Sun",
+        "Rating": 14
+      },
+      {
+        "Answer": "Daily Mail",
+        "Rating": 26
+      }
+    ],
+    "Question": "For which Sunday newspaper was Clement Freud a football  correspondent?",
+    "Level": 1,
+    "id": 57
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Green",
+        "Rating": 15
+      },
+      {
+        "Answer": "White",
+        "Rating": 28
+      },
+      {
+        "Answer": "Blue",
+        "Rating": 5
+      },
+      {
+        "Answer": "Red",
+        "Rating": 52
+      }
+    ],
+    "Question": "From what colour rock is the Jordanian city of Petra carved?",
+    "Level": 1,
+    "id": 58
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "The Greek",
+        "Rating": 18
+      },
+      {
+        "Answer": "The Phoenician",
+        "Rating": 68
+      },
+      {
+        "Answer": "Arabic",
+        "Rating": 11
+      },
+      {
+        "Answer": "Syriac",
+        "Rating": 3
+      }
+    ],
+    "Question": "From which alphabet did all the Western alphabets originate?",
+    "Level": 2,
+    "id": 59
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Greenland",
+        "Rating": 50
+      },
+      {
+        "Answer": "Portuguese",
+        "Rating": 50
+      },
+      {
+        "Answer": "English",
+        "Rating": 0
+      },
+      {
+        "Answer": "Spanish",
+        "Rating": 0
+      }
+    ],
+    "Question": "From which country\u0027s language does anorak come from?",
+    "Level": 0,
+    "id": 60
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Abbey Wood",
+        "Rating": 0
+      },
+      {
+        "Answer": "Euston",
+        "Rating": 69
+      },
+      {
+        "Answer": "Balham",
+        "Rating": 2
+      },
+      {
+        "Answer": "Caterham",
+        "Rating": 29
+      }
+    ],
+    "Question": "From which London station would you leave if travelling to Carlisle?",
+    "Level": 0,
+    "id": 61
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Maple",
+        "Rating": 2
+      },
+      {
+        "Answer": "Yew",
+        "Rating": 74
+      },
+      {
+        "Answer": "Oak",
+        "Rating": 10
+      },
+      {
+        "Answer": "Magic Tree",
+        "Rating": 14
+      }
+    ],
+    "Question": "From which wood were longbows made? ",
+    "Level": 0,
+    "id": 62
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Carbon",
+        "Rating": 55
+      },
+      {
+        "Answer": "Gold",
+        "Rating": 0
+      },
+      {
+        "Answer": "Calcium",
+        "Rating": 41
+      },
+      {
+        "Answer": "Silver",
+        "Rating": 4
+      }
+    ],
+    "Question": "Graphite is composed of which element?",
+    "Level": 0,
+    "id": 63
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Titanium Group",
+        "Rating": 2
+      },
+      {
+        "Answer": "Noble gas",
+        "Rating": 64
+      },
+      {
+        "Answer": "Beryllium Group",
+        "Rating": 15
+      },
+      {
+        "Answer": "Oxygen Group",
+        "Rating": 19
+      }
+    ],
+    "Question": "Helium belongs to which group of elements?",
+    "Level": 0,
+    "id": 64
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Meter",
+        "Rating": 29
+      },
+      {
+        "Answer": "Inch",
+        "Rating": 56
+      },
+      {
+        "Answer": "Yard",
+        "Rating": 3
+      },
+      {
+        "Answer": "Feet",
+        "Rating": 12
+      }
+    ],
+    "Question": "Henry III put three barleycorns in a line to make which measurement?",
+    "Level": 0,
+    "id": 65
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Taoism",
+        "Rating": 0
+      },
+      {
+        "Answer": "Buddhism",
+        "Rating": 34
+      },
+      {
+        "Answer": "Hinduism",
+        "Rating": 63
+      },
+      {
+        "Answer": "Sikhism",
+        "Rating": 3
+      }
+    ],
+    "Question": "Holi is a spring religious festival. In which religion?",
+    "Level": 2,
+    "id": 66
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Suiciding",
+        "Rating": 0
+      },
+      {
+        "Answer": "A blow to his stomach",
+        "Rating": 69
+      },
+      {
+        "Answer": "Drinking poisons",
+        "Rating": 30
+      },
+      {
+        "Answer": "Drugs abuse",
+        "Rating": 1
+      }
+    ],
+    "Question": "How did master escapologist Harry Houdini die?",
+    "Level": 2,
+    "id": 67
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Suiciding",
+        "Rating": 5
+      },
+      {
+        "Answer": "In workshops while visiting employers",
+        "Rating": 20
+      },
+      {
+        "Answer": "In a flying accident",
+        "Rating": 65
+      },
+      {
+        "Answer": "In a car accident",
+        "Rating": 10
+      }
+    ],
+    "Question": "How did the car manufacturer, Charles Stewart Rolls, die?",
+    "Level": 2,
+    "id": 68
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "By sense of size",
+        "Rating": 0
+      },
+      {
+        "Answer": "By antennas",
+        "Rating": 18
+      },
+      {
+        "Answer": "Their eyes can see clearly in night",
+        "Rating": 14
+      },
+      {
+        "Answer": "By sense of smell",
+        "Rating": 68
+      }
+    ],
+    "Question": "How do male moths find female moths in the dark?",
+    "Level": 0,
+    "id": 69
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "LXXVII",
+        "Rating": 67
+      },
+      {
+        "Answer": "XXXXXIII",
+        "Rating": 3
+      },
+      {
+        "Answer": "VVVIII",
+        "Rating": 3
+      },
+      {
+        "Answer": "LLLXV",
+        "Rating": 27
+      }
+    ],
+    "Question": "How is 77 represented in Roman numerals?",
+    "Level": 0,
+    "id": 70
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "dash dash dash",
+        "Rating": 0
+      },
+      {
+        "Answer": "dot dash dot",
+        "Rating": 2
+      },
+      {
+        "Answer": "Dot dot dot",
+        "Rating": 61
+      },
+      {
+        "Answer": "dit dit dot",
+        "Rating": 37
+      }
+    ],
+    "Question": "How is the letter S represented in morse code?",
+    "Level": 0,
+    "id": 71
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "120 Seconds",
+        "Rating": 14
+      },
+      {
+        "Answer": "45 Seconds",
+        "Rating": 22
+      },
+      {
+        "Answer": "30 Seconds",
+        "Rating": 12
+      },
+      {
+        "Answer": "60 seconds",
+        "Rating": 52
+      }
+    ],
+    "Question": "How long is there between rounds in boxing?",
+    "Level": 0,
+    "id": 72
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Six",
+        "Rating": 55
+      },
+      {
+        "Answer": "Sixteen",
+        "Rating": 40
+      },
+      {
+        "Answer": "Twenty",
+        "Rating": 1
+      },
+      {
+        "Answer": "Two",
+        "Rating": 4
+      }
+    ],
+    "Question": "How many carbon atoms are there in the phenol molecule?",
+    "Level": 1,
+    "id": 73
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "44",
+        "Rating": 7
+      },
+      {
+        "Answer": "39",
+        "Rating": 14
+      },
+      {
+        "Answer": "26",
+        "Rating": 25
+      },
+      {
+        "Answer": "13",
+        "Rating": 54
+      }
+    ],
+    "Question": "How many cards are there in each suit?",
+    "Level": 1,
+    "id": 74
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Five",
+        "Rating": 54
+      },
+      {
+        "Answer": "Ten",
+        "Rating": 21
+      },
+      {
+        "Answer": "Twenty",
+        "Rating": 2
+      },
+      {
+        "Answer": "Fifty",
+        "Rating": 23
+      }
+    ],
+    "Question": "How many cents are there in a US nickel?",
+    "Level": 0,
+    "id": 75
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Zero",
+        "Rating": 5
+      },
+      {
+        "Answer": "One",
+        "Rating": 1
+      },
+      {
+        "Answer": "Five",
+        "Rating": 34
+      },
+      {
+        "Answer": "Four - one was a dog",
+        "Rating": 60
+      }
+    ],
+    "Question": "How many children were there in Enid Blyton\u0027s Famous Five?",
+    "Level": 0,
+    "id": 76
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "90 degrees",
+        "Rating": 60
+      },
+      {
+        "Answer": "180 degrees",
+        "Rating": 8
+      },
+      {
+        "Answer": "360 degrees",
+        "Rating": 1
+      },
+      {
+        "Answer": "45 degrees",
+        "Rating": 31
+      }
+    ],
+    "Question": "How many degrees in a right angle?",
+    "Level": 0,
+    "id": 77
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "One",
+        "Rating": 1
+      },
+      {
+        "Answer": "Two",
+        "Rating": 8
+      },
+      {
+        "Answer": "Eight",
+        "Rating": 34
+      },
+      {
+        "Answer": "Six",
+        "Rating": 57
+      }
+    ],
+    "Question": "How many dots are used in each letter in the Braille system?",
+    "Level": 0,
+    "id": 78
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Zero",
+        "Rating": 15
+      },
+      {
+        "Answer": "Eight",
+        "Rating": 14
+      },
+      {
+        "Answer": "Fourth",
+        "Rating": 5
+      },
+      {
+        "Answer": "Two",
+        "Rating": 66
+      }
+    ],
+    "Question": "How many equal angles are there in an isosceles triangle?",
+    "Level": 0,
+    "id": 79
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "30",
+        "Rating": 59
+      },
+      {
+        "Answer": "20",
+        "Rating": 4
+      },
+      {
+        "Answer": "10",
+        "Rating": 26
+      },
+      {
+        "Answer": "28",
+        "Rating": 11
+      }
+    ],
+    "Question": "How many feet are there in ten yards?",
+    "Level": 0,
+    "id": 80
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Eight",
+        "Rating": 71
+      },
+      {
+        "Answer": "Ten",
+        "Rating": 4
+      },
+      {
+        "Answer": "Seven",
+        "Rating": 17
+      },
+      {
+        "Answer": "Five",
+        "Rating": 8
+      }
+    ],
+    "Question": "How many furlongs in a mile?",
+    "Level": 0,
+    "id": 81
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Fourth",
+        "Rating": 5
+      },
+      {
+        "Answer": "Two",
+        "Rating": 21
+      },
+      {
+        "Answer": "One",
+        "Rating": 9
+      },
+      {
+        "Answer": "None",
+        "Rating": 65
+      }
+    ],
+    "Question": "How many humps does a newborn camel have?",
+    "Level": 1,
+    "id": 82
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "288",
+        "Rating": 15
+      },
+      {
+        "Answer": "249",
+        "Rating": 2
+      },
+      {
+        "Answer": "Over 600",
+        "Rating": 26
+      },
+      {
+        "Answer": "365",
+        "Rating": 57
+      }
+    ],
+    "Question": "How many islands make up the Calendar Islands in Casco Bay?",
+    "Level": 1,
+    "id": 83
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Two",
+        "Rating": 2
+      },
+      {
+        "Answer": "None",
+        "Rating": 62
+      },
+      {
+        "Answer": "Fourth",
+        "Rating": 6
+      },
+      {
+        "Answer": "Six",
+        "Rating": 30
+      }
+    ],
+    "Question": "How many kings of England have been called Philip?",
+    "Level": 0,
+    "id": 84
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "2",
+        "Rating": 10
+      },
+      {
+        "Answer": "4",
+        "Rating": 50
+      },
+      {
+        "Answer": "1",
+        "Rating": 40
+      },
+      {
+        "Answer": "12",
+        "Rating": 0
+      }
+    ],
+    "Question": "How many laps are completed in a speedway race?",
+    "Level": 0,
+    "id": 85
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "4",
+        "Rating": 9
+      },
+      {
+        "Answer": "6",
+        "Rating": 3
+      },
+      {
+        "Answer": "10",
+        "Rating": 28
+      },
+      {
+        "Answer": "8",
+        "Rating": 60
+      }
+    ],
+    "Question": "How many legs has a lobster?",
+    "Level": 0,
+    "id": 86
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "16",
+        "Rating": 6
+      },
+      {
+        "Answer": "8",
+        "Rating": 67
+      },
+      {
+        "Answer": "12",
+        "Rating": 24
+      },
+      {
+        "Answer": "Over 20",
+        "Rating": 3
+      }
+    ],
+    "Question": "How many legs has a spider?",
+    "Level": 0,
+    "id": 87
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "8",
+        "Rating": 28
+      },
+      {
+        "Answer": "6",
+        "Rating": 6
+      },
+      {
+        "Answer": "12",
+        "Rating": 10
+      },
+      {
+        "Answer": "5",
+        "Rating": 56
+      }
+    ],
+    "Question": "How many miles are there in eight kilometres?",
+    "Level": 0,
+    "id": 88
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "600",
+        "Rating": 17
+      },
+      {
+        "Answer": "900",
+        "Rating": 9
+      },
+      {
+        "Answer": "360",
+        "Rating": 0
+      },
+      {
+        "Answer": "300",
+        "Rating": 74
+      }
+    ],
+    "Question": "How many minutes in five hours?",
+    "Level": 0,
+    "id": 89
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "840",
+        "Rating": 2
+      },
+      {
+        "Answer": "760",
+        "Rating": 1
+      },
+      {
+        "Answer": "720",
+        "Rating": 65
+      },
+      {
+        "Answer": "700",
+        "Rating": 32
+      }
+    ],
+    "Question": "How many minutes in half a day?",
+    "Level": 0,
+    "id": 90
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "12",
+        "Rating": 4
+      },
+      {
+        "Answer": "8",
+        "Rating": 3
+      },
+      {
+        "Answer": "11",
+        "Rating": 28
+      },
+      {
+        "Answer": "10",
+        "Rating": 65
+      }
+    ],
+    "Question": "How many months were there in the old Roman year?",
+    "Level": 1,
+    "id": 91
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "2",
+        "Rating": 0
+      },
+      {
+        "Answer": "4",
+        "Rating": 0
+      },
+      {
+        "Answer": "8",
+        "Rating": 63
+      },
+      {
+        "Answer": "7",
+        "Rating": 37
+      }
+    ],
+    "Question": "How many notes are there in an octave?",
+    "Level": 0,
+    "id": 92
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "2",
+        "Rating": 32
+      },
+      {
+        "Answer": "1",
+        "Rating": 0
+      },
+      {
+        "Answer": "3",
+        "Rating": 2
+      },
+      {
+        "Answer": "4",
+        "Rating": 66
+      }
+    ],
+    "Question": "How many phases of the moon are there in a lunar month?",
+    "Level": 0,
+    "id": 93
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "1",
+        "Rating": 9
+      },
+      {
+        "Answer": "0.5",
+        "Rating": 18
+      },
+      {
+        "Answer": "8",
+        "Rating": 59
+      },
+      {
+        "Answer": "4",
+        "Rating": 14
+      }
+    ],
+    "Question": "How many pints in a gallon?",
+    "Level": 0,
+    "id": 94
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "2",
+        "Rating": 12
+      },
+      {
+        "Answer": "3",
+        "Rating": 3
+      },
+      {
+        "Answer": "None",
+        "Rating": 57
+      },
+      {
+        "Answer": "1",
+        "Rating": 28
+      }
+    ],
+    "Question": "How many queens have ruled France?",
+    "Level": 0,
+    "id": 95
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "10",
+        "Rating": 13
+      },
+      {
+        "Answer": "20",
+        "Rating": 2
+      },
+      {
+        "Answer": "24",
+        "Rating": 28
+      },
+      {
+        "Answer": "30",
+        "Rating": 57
+      }
+    ],
+    "Question": "How many years are celebrated by a pearl anniversary?",
+    "Level": 0,
+    "id": 96
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "50",
+        "Rating": 4
+      },
+      {
+        "Answer": "5",
+        "Rating": 22
+      },
+      {
+        "Answer": "40",
+        "Rating": 58
+      },
+      {
+        "Answer": "15",
+        "Rating": 16
+      }
+    ],
+    "Question": "How many years are celebrated by a ruby anniversary?",
+    "Level": 0,
+    "id": 97
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "50",
+        "Rating": 7
+      },
+      {
+        "Answer": "55",
+        "Rating": 74
+      },
+      {
+        "Answer": "25",
+        "Rating": 14
+      },
+      {
+        "Answer": "35",
+        "Rating": 5
+      }
+    ],
+    "Question": "How many years are celebrated by an emerald anniversary?",
+    "Level": 0,
+    "id": 98
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "5",
+        "Rating": 0
+      },
+      {
+        "Answer": "10",
+        "Rating": 0
+      },
+      {
+        "Answer": "25",
+        "Rating": 70
+      },
+      {
+        "Answer": "15",
+        "Rating": 30
+      }
+    ],
+    "Question": "How many years are involved in a silver anniversary?",
+    "Level": 0,
+    "id": 99
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "100",
+        "Rating": 9
+      },
+      {
+        "Answer": "200",
+        "Rating": 75
+      },
+      {
+        "Answer": "300",
+        "Rating": 13
+      },
+      {
+        "Answer": "150",
+        "Rating": 3
+      }
+    ],
+    "Question": "How much does it cost to buy a station on a British Monopoly board?",
+    "Level": 0,
+    "id": 100
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "35p",
+        "Rating": 67
+      },
+      {
+        "Answer": "70p",
+        "Rating": 12
+      },
+      {
+        "Answer": "50p",
+        "Rating": 15
+      },
+      {
+        "Answer": "£1",
+        "Rating": 6
+      }
+    ],
+    "Question": "If VAT is 17.5% what is the VAT on an item costing £2?",
+    "Level": 0,
+    "id": 101
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "1009",
+        "Rating": 60
+      },
+      {
+        "Answer": "1918",
+        "Rating": 20
+      },
+      {
+        "Answer": "1652",
+        "Rating": 20
+      },
+      {
+        "Answer": "100 BC",
+        "Rating": 0
+      }
+    ],
+    "Question": "What date was the Lithuania name first mentioned in the world ? ",
+    "Level": 2,
+    "id": 102
+  },
+  {
+    "id": 103,
+    "Question": "This game is called \u0027Who wants to be a .... \u0027 ",
+    "Level": 0,
+    "Answers": [
+      {
+        "Answer": "Zillionaire",
+        "Rating": 100
+      },
+      {
+        "Answer": "Millionaire",
+        "Rating": 0
+      },
+      {
+        "Answer": "Billionaire",
+        "Rating": 0
+      },
+      {
+        "Answer": "Centinionaire",
+        "Rating": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,1548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="backend.GUIWindow">
+  <grid id="27dc6" binding="cards" layout-manager="CardLayout" hgap="0" vgap="0" show="b7a5">
+    <constraints>
+      <xy x="20" y="20" width="1029" height="695"/>
+    </constraints>
+    <properties>
+      <minimumSize width="840" height="640"/>
+      <opaque value="true"/>
+      <preferredSize width="1000" height="640"/>
+      <requestFocusEnabled value="true"/>
+      <verifyInputWhenFocusTarget value="false"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="8cf9" binding="gameplayScreen" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints>
+          <card name="gameplay"/>
+        </constraints>
+        <properties>
+          <background color="-1513240"/>
+          <enabled value="false"/>
+          <minimumSize width="900" height="521"/>
+          <preferredSize width="900" height="511"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <grid id="fd9a4" layout-manager="GridLayoutManager" row-count="3" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="0" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints border-constraint="South"/>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="2ee3c" class="javax.swing.JButton" binding="answerButton_C">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <actionCommand value="answerC"/>
+                  <borderPainted value="false"/>
+                  <contentAreaFilled value="false"/>
+                  <defaultCapable value="false"/>
+                  <focusPainted value="false"/>
+                  <horizontalTextPosition value="0"/>
+                  <icon value="Sprites/answerBar.png"/>
+                  <inheritsPopupMenu value="true"/>
+                  <margin top="10" left="0" bottom="10" right="0"/>
+                  <text value="C: C"/>
+                  <toolTipText value=""/>
+                  <verifyInputWhenFocusTarget value="true"/>
+                  <verticalAlignment value="0"/>
+                  <verticalTextPosition value="0"/>
+                  <visible value="true"/>
+                </properties>
+              </component>
+              <component id="65247" class="javax.swing.JButton" binding="answerButton_D">
+                <constraints>
+                  <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <actionCommand value="answerD"/>
+                  <borderPainted value="false"/>
+                  <contentAreaFilled value="false"/>
+                  <defaultCapable value="false"/>
+                  <focusPainted value="false"/>
+                  <horizontalTextPosition value="0"/>
+                  <icon value="Sprites/answerBar.png"/>
+                  <inheritsPopupMenu value="true"/>
+                  <margin top="10" left="0" bottom="10" right="0"/>
+                  <text value="D: D"/>
+                  <toolTipText value=""/>
+                  <verticalAlignment value="0"/>
+                  <verticalTextPosition value="0"/>
+                </properties>
+              </component>
+              <component id="1730" class="javax.swing.JButton" binding="answerButton_B">
+                <constraints>
+                  <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <actionCommand value="answerB"/>
+                  <borderPainted value="false"/>
+                  <contentAreaFilled value="false"/>
+                  <defaultCapable value="false"/>
+                  <focusPainted value="false"/>
+                  <horizontalTextPosition value="0"/>
+                  <icon value="Sprites/answerBar.png"/>
+                  <inheritsPopupMenu value="true"/>
+                  <margin top="10" left="0" bottom="10" right="0"/>
+                  <text value="B: B"/>
+                  <toolTipText value=""/>
+                  <verticalAlignment value="0"/>
+                  <verticalTextPosition value="0"/>
+                </properties>
+              </component>
+              <component id="666d3" class="javax.swing.JButton" binding="answerButton_A">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <actionCommand value="answerA"/>
+                  <borderPainted value="false"/>
+                  <contentAreaFilled value="false"/>
+                  <defaultCapable value="false"/>
+                  <focusPainted value="false"/>
+                  <horizontalTextPosition value="0"/>
+                  <icon value="Sprites/answerBar.png"/>
+                  <inheritsPopupMenu value="true"/>
+                  <margin top="10" left="0" bottom="10" right="0"/>
+                  <text value="A: A"/>
+                  <toolTipText value=""/>
+                  <verticalAlignment value="0"/>
+                  <verticalTextPosition value="0"/>
+                </properties>
+              </component>
+              <grid id="6ad02" layout-manager="FlowLayout" hgap="0" vgap="0" flow-align="1">
+                <constraints>
+                  <grid row="2" column="0" row-span="1" col-span="2" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="1" use-parent-layout="false">
+                    <minimum-size width="-1" height="20"/>
+                    <preferred-size width="-1" height="20"/>
+                    <maximum-size width="-1" height="20"/>
+                  </grid>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="76ea" class="javax.swing.JLabel">
+                    <constraints/>
+                    <properties>
+                      <font name="DialogInput" size="10"/>
+                      <horizontalAlignment value="0"/>
+                      <horizontalTextPosition value="0"/>
+                      <text value="Copyright © 2018. Domantas Giedraitis (Navus) All rights reserved. "/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+            </children>
+          </grid>
+          <grid id="9c56d" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="10" left="10" bottom="10" right="10"/>
+            <constraints border-constraint="North"/>
+            <properties>
+              <minimumSize width="438" height="100"/>
+              <preferredSize width="-1" height="90"/>
+              <requestFocusEnabled value="true"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <grid id="4d34b" layout-manager="BorderLayout" hgap="0" vgap="0">
+                <constraints>
+                  <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <grid id="eda0" layout-manager="BorderLayout" hgap="0" vgap="0">
+                    <constraints border-constraint="North"/>
+                    <properties>
+                      <background color="-1513240"/>
+                    </properties>
+                    <border type="none"/>
+                    <children>
+                      <component id="899ec" class="javax.swing.JLabel" binding="currentPlayerIndexLabel">
+                        <constraints border-constraint="Center"/>
+                        <properties>
+                          <text value="Player 1/10"/>
+                        </properties>
+                      </component>
+                    </children>
+                  </grid>
+                  <grid id="8b32d" layout-manager="GridLayoutManager" row-count="1" column-count="11" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+                    <margin top="0" left="0" bottom="0" right="0"/>
+                    <constraints border-constraint="South"/>
+                    <properties>
+                      <background color="-1513240"/>
+                    </properties>
+                    <border type="none"/>
+                    <children>
+                      <hspacer id="4045b">
+                        <constraints>
+                          <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="1" use-parent-layout="false"/>
+                        </constraints>
+                      </hspacer>
+                      <component id="a9f03" class="javax.swing.JLabel" binding="playerNameLabel">
+                        <constraints>
+                          <grid row="0" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                            <maximum-size width="200" height="-1"/>
+                          </grid>
+                        </constraints>
+                        <properties>
+                          <font name="Courier New" size="14" style="1"/>
+                          <text value="Player name"/>
+                        </properties>
+                      </component>
+                      <component id="ab883" class="javax.swing.JLabel">
+                        <constraints>
+                          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                        <properties>
+                          <icon value="Sprites/coinsv2.png"/>
+                          <text value=""/>
+                        </properties>
+                      </component>
+                      <component id="ca93f" class="javax.swing.JButton" binding="exitBT">
+                        <constraints>
+                          <grid row="0" column="10" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                        <properties>
+                          <borderPainted value="false"/>
+                          <contentAreaFilled value="false"/>
+                          <icon value="Sprites/exit button40x40.png"/>
+                          <opaque value="false"/>
+                          <text value=""/>
+                        </properties>
+                      </component>
+                      <component id="a068f" class="javax.swing.JLabel" binding="creditLabel">
+                        <constraints>
+                          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                            <minimum-size width="150" height="-1"/>
+                            <preferred-size width="150" height="-1"/>
+                          </grid>
+                        </constraints>
+                        <properties>
+                          <font name="Courier New" size="14" style="1"/>
+                          <text value="0"/>
+                        </properties>
+                      </component>
+                      <component id="cbb02" class="javax.swing.JButton" binding="help_5050Button">
+                        <constraints>
+                          <grid row="0" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                        <properties>
+                          <borderPainted value="false"/>
+                          <contentAreaFilled value="false"/>
+                          <focusPainted value="true"/>
+                          <horizontalTextPosition value="11"/>
+                          <icon value="Sprites/help_5050_default.png"/>
+                          <text value=""/>
+                        </properties>
+                      </component>
+                      <component id="46bc" class="javax.swing.JButton" binding="help_audienceButton">
+                        <constraints>
+                          <grid row="0" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                        <properties>
+                          <borderPainted value="false"/>
+                          <contentAreaFilled value="false"/>
+                          <enabled value="true"/>
+                          <focusPainted value="true"/>
+                          <horizontalTextPosition value="11"/>
+                          <icon value="Sprites/help_audience_default.png"/>
+                          <text value=""/>
+                        </properties>
+                      </component>
+                      <component id="e55bb" class="javax.swing.JButton" binding="help_chanceButton">
+                        <constraints>
+                          <grid row="0" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                        <properties>
+                          <borderPainted value="false"/>
+                          <contentAreaFilled value="false"/>
+                          <enabled value="true"/>
+                          <focusPainted value="true"/>
+                          <horizontalTextPosition value="11"/>
+                          <icon value="Sprites/help_chance_default.png"/>
+                          <text value=""/>
+                        </properties>
+                      </component>
+                      <hspacer id="7c988">
+                        <constraints>
+                          <grid row="0" column="9" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                      </hspacer>
+                      <hspacer id="2c84f">
+                        <constraints>
+                          <grid row="0" column="5" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                      </hspacer>
+                      <component id="a7a56" class="javax.swing.JButton" binding="muteSoundButton">
+                        <constraints>
+                          <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                        <properties>
+                          <borderPainted value="false"/>
+                          <contentAreaFilled value="false"/>
+                          <focusPainted value="true"/>
+                          <horizontalTextPosition value="11"/>
+                          <icon value="Sprites/soundIcon_Default.png"/>
+                          <text value=""/>
+                        </properties>
+                      </component>
+                    </children>
+                  </grid>
+                </children>
+              </grid>
+            </children>
+          </grid>
+          <grid id="7699f" layout-manager="GridLayoutManager" row-count="5" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints border-constraint="Center"/>
+            <properties>
+              <maximumSize width="2147483647" height="300"/>
+              <minimumSize width="840" height="300"/>
+              <preferredSize width="1000" height="300"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <vspacer id="7b40a">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false">
+                    <minimum-size width="-1" height="20"/>
+                    <preferred-size width="-1" height="20"/>
+                  </grid>
+                </constraints>
+              </vspacer>
+              <grid id="c2274" layout-manager="FlowLayout" hgap="50" vgap="0" flow-align="1">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="2" indent="0" use-parent-layout="false">
+                    <preferred-size width="1000" height="250"/>
+                  </grid>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <grid id="78409" binding="audienceHelpPanel_Opposite" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+                    <margin top="0" left="0" bottom="0" right="0"/>
+                    <constraints/>
+                    <properties>
+                      <minimumSize width="250" height="250"/>
+                      <preferredSize width="250" height="250"/>
+                      <visible value="false"/>
+                    </properties>
+                    <border type="none"/>
+                    <children/>
+                  </grid>
+                  <grid id="72145" layout-manager="BorderLayout" hgap="0" vgap="0">
+                    <constraints/>
+                    <properties/>
+                    <border type="none"/>
+                    <children>
+                      <component id="fbaef" class="javax.swing.JLabel" binding="chronometreLabel">
+                        <constraints border-constraint="North"/>
+                        <properties>
+                          <font name="Courier New" size="36" style="0"/>
+                          <foreground color="-1"/>
+                          <horizontalAlignment value="0"/>
+                          <horizontalTextPosition value="0"/>
+                          <icon value="Sprites/circleMain200x200.png"/>
+                          <preferredSize width="250" height="250"/>
+                          <requestFocusEnabled value="true"/>
+                          <text value="00.00"/>
+                        </properties>
+                      </component>
+                    </children>
+                  </grid>
+                  <grid id="ccab5" binding="audienceHelpPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+                    <constraints/>
+                    <properties>
+                      <minimumSize width="250" height="250"/>
+                      <preferredSize width="250" height="250"/>
+                      <visible value="false"/>
+                    </properties>
+                    <border type="none"/>
+                    <children>
+                      <grid id="4018e" layout-manager="GridLayoutManager" row-count="5" column-count="4" same-size-horizontally="false" same-size-vertically="false" hgap="20" vgap="0">
+                        <margin top="0" left="50" bottom="0" right="50"/>
+                        <constraints border-constraint="Center"/>
+                        <properties>
+                          <visible value="true"/>
+                        </properties>
+                        <border type="none"/>
+                        <children>
+                          <component id="fad17" class="javax.swing.JProgressBar" binding="progressBar1" default-binding="true">
+                            <constraints>
+                              <grid row="0" column="0" row-span="3" col-span="1" vsize-policy="0" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false">
+                                <preferred-size width="30" height="-1"/>
+                              </grid>
+                            </constraints>
+                            <properties>
+                              <orientation value="1"/>
+                              <stringPainted value="true"/>
+                            </properties>
+                          </component>
+                          <component id="ece8b" class="javax.swing.JProgressBar" binding="progressBar2" default-binding="true">
+                            <constraints>
+                              <grid row="0" column="1" row-span="3" col-span="1" vsize-policy="0" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false">
+                                <preferred-size width="30" height="-1"/>
+                              </grid>
+                            </constraints>
+                            <properties>
+                              <orientation value="1"/>
+                              <stringPainted value="true"/>
+                            </properties>
+                          </component>
+                          <component id="521b4" class="javax.swing.JProgressBar" binding="progressBar3" default-binding="true">
+                            <constraints>
+                              <grid row="0" column="2" row-span="3" col-span="1" vsize-policy="0" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false">
+                                <preferred-size width="30" height="-1"/>
+                              </grid>
+                            </constraints>
+                            <properties>
+                              <orientation value="1"/>
+                              <stringPainted value="true"/>
+                            </properties>
+                          </component>
+                          <component id="e82a5" class="javax.swing.JProgressBar" binding="progressBar4" default-binding="true">
+                            <constraints>
+                              <grid row="0" column="3" row-span="3" col-span="1" vsize-policy="0" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false">
+                                <preferred-size width="30" height="-1"/>
+                              </grid>
+                            </constraints>
+                            <properties>
+                              <orientation value="1"/>
+                              <stringPainted value="true"/>
+                            </properties>
+                          </component>
+                          <component id="5a962" class="javax.swing.JLabel">
+                            <constraints>
+                              <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                            </constraints>
+                            <properties>
+                              <font size="20" style="1"/>
+                              <text value="C"/>
+                            </properties>
+                          </component>
+                          <component id="68e25" class="javax.swing.JLabel">
+                            <constraints>
+                              <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                            </constraints>
+                            <properties>
+                              <font size="20" style="1"/>
+                              <text value="A"/>
+                            </properties>
+                          </component>
+                          <component id="42cee" class="javax.swing.JLabel">
+                            <constraints>
+                              <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                            </constraints>
+                            <properties>
+                              <font size="20" style="1"/>
+                              <text value="B"/>
+                            </properties>
+                          </component>
+                          <component id="4f2cc" class="javax.swing.JLabel">
+                            <constraints>
+                              <grid row="3" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                            </constraints>
+                            <properties>
+                              <font size="20" style="1"/>
+                              <text value="D"/>
+                            </properties>
+                          </component>
+                        </children>
+                      </grid>
+                    </children>
+                  </grid>
+                </children>
+              </grid>
+              <grid id="44035" layout-manager="BorderLayout" hgap="0" vgap="0">
+                <constraints>
+                  <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="c442f" class="javax.swing.JLabel" binding="questionLabel">
+                    <constraints border-constraint="Center"/>
+                    <properties>
+                      <alignmentX value="0.0"/>
+                      <alignmentY value="0.5"/>
+                      <horizontalAlignment value="0"/>
+                      <horizontalTextPosition value="0"/>
+                      <icon value="Sprites/questionBar.png"/>
+                      <text value="Question"/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <vspacer id="199f">
+                <constraints>
+                  <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+            </children>
+          </grid>
+        </children>
+      </grid>
+      <grid id="7b00c" binding="gameoverScreen" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints>
+          <card name="gameover"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <grid id="90d01" layout-manager="FlowLayout" hgap="0" vgap="0" flow-align="1">
+            <constraints border-constraint="North"/>
+            <properties>
+              <minimumSize width="-1" height="300"/>
+              <preferredSize width="-1" height="300"/>
+              <requestFocusEnabled value="true"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="542df" class="javax.swing.JLabel">
+                <constraints/>
+                <properties>
+                  <icon value="Sprites/resultsBackground.png"/>
+                  <text value=""/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="a7bb3" layout-manager="GridLayoutManager" row-count="2" column-count="6" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="30"/>
+            <constraints border-constraint="South"/>
+            <properties>
+              <minimumSize width="-1" height="50"/>
+              <preferredSize width="-1" height="75"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <grid id="71200" layout-manager="FlowLayout" hgap="20" vgap="5" flow-align="1">
+                <constraints>
+                  <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                    <preferred-size width="-1" height="300"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <minimumSize width="239" height="40"/>
+                  <opaque value="true"/>
+                  <preferredSize width="303" height="40"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <component id="c4f85" class="javax.swing.JButton" binding="quitButton">
+                    <constraints/>
+                    <properties>
+                      <autoscrolls value="true"/>
+                      <borderPainted value="false"/>
+                      <enabled value="true"/>
+                      <focusPainted value="false"/>
+                      <font name="Consolas" size="14" style="0"/>
+                      <preferredSize width="114" height="40"/>
+                      <text value="Quit"/>
+                      <toolTipText value="On press quits the game"/>
+                    </properties>
+                  </component>
+                  <component id="5e4fc" class="javax.swing.JButton" binding="gameover_SupportBT">
+                    <constraints/>
+                    <properties>
+                      <autoscrolls value="true"/>
+                      <borderPainted value="false"/>
+                      <enabled value="true"/>
+                      <focusPainted value="false"/>
+                      <font name="Consolas" size="14" style="0"/>
+                      <preferredSize width="114" height="40"/>
+                      <text value="Support"/>
+                      <toolTipText value="There you can find support, often asked Questions and Answers(Q&amp;A) and contact details ! "/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <grid id="6b08" layout-manager="FlowLayout" hgap="0" vgap="0" flow-align="2">
+                <constraints>
+                  <grid row="0" column="4" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <minimumSize width="164" height="40"/>
+                  <preferredSize width="164" height="40"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <component id="8d83f" class="javax.swing.JButton" binding="gameover_AgainBT">
+                    <constraints/>
+                    <properties>
+                      <autoscrolls value="true"/>
+                      <borderPainted value="false"/>
+                      <enabled value="true"/>
+                      <focusPainted value="false"/>
+                      <font name="Consolas" size="14" style="0"/>
+                      <preferredSize width="114" height="40"/>
+                      <text value="Play Again"/>
+                      <toolTipText value="Starts Game from Beginning"/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <grid id="e9fe6" layout-manager="FlowLayout" hgap="0" vgap="0" flow-align="1">
+                <constraints>
+                  <grid row="1" column="1" row-span="1" col-span="4" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                    <minimum-size width="-1" height="20"/>
+                    <preferred-size width="-1" height="20"/>
+                    <maximum-size width="-1" height="20"/>
+                  </grid>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="6f069" class="javax.swing.JLabel">
+                    <constraints/>
+                    <properties>
+                      <font name="DialogInput" size="10"/>
+                      <text value="Copyright © 2018. Domantas Giedraitis (Navus) All rights reserved. "/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <hspacer id="7e532">
+                <constraints>
+                  <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+            </children>
+          </grid>
+          <grid id="eaa96" layout-manager="BorderLayout" hgap="10" vgap="10">
+            <constraints border-constraint="Center"/>
+            <properties>
+              <enabled value="true"/>
+              <focusable value="true"/>
+              <minimumSize width="-1" height="-1"/>
+              <preferredSize width="-1" height="-1"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <grid id="75902" layout-manager="GridLayoutManager" row-count="1" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="0" vgap="20">
+                <margin top="20" left="20" bottom="20" right="20"/>
+                <constraints border-constraint="Center"/>
+                <properties>
+                  <minimumSize width="-1" height="100"/>
+                  <preferredSize width="-1" height="450"/>
+                  <requestFocusEnabled value="false"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <grid id="19363" layout-manager="BorderLayout" hgap="0" vgap="0">
+                    <constraints>
+                      <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                    <properties/>
+                    <border type="none"/>
+                    <children>
+                      <scrollpane id="4c0b8">
+                        <constraints border-constraint="Center"/>
+                        <properties/>
+                        <border type="none" title=""/>
+                        <children>
+                          <component id="31359" class="javax.swing.JTable" binding="resultsTable" custom-create="true">
+                            <constraints/>
+                            <properties>
+                              <autoCreateRowSorter value="false"/>
+                              <cellSelectionEnabled value="true"/>
+                              <editingColumn value="0"/>
+                              <editingRow value="0"/>
+                              <fillsViewportHeight value="true"/>
+                              <preferredScrollableViewportSize width="600" height="800"/>
+                              <preferredSize width="600" height="200"/>
+                              <selectionBackground color="-1082753"/>
+                            </properties>
+                          </component>
+                        </children>
+                      </scrollpane>
+                    </children>
+                  </grid>
+                  <hspacer id="5b671">
+                    <constraints>
+                      <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                  </hspacer>
+                  <hspacer id="dd841">
+                    <constraints>
+                      <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                  </hspacer>
+                </children>
+              </grid>
+            </children>
+          </grid>
+        </children>
+      </grid>
+      <grid id="182ea" binding="supportScreen" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints>
+          <card name="support"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <grid id="96849" layout-manager="GridLayoutManager" row-count="2" column-count="7" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="30"/>
+            <constraints border-constraint="South"/>
+            <properties>
+              <minimumSize width="-1" height="50"/>
+              <preferredSize width="-1" height="75"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <grid id="21d7e" layout-manager="FlowLayout" hgap="20" vgap="5" flow-align="1">
+                <constraints>
+                  <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                    <preferred-size width="50" height="150"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <minimumSize width="239" height="40"/>
+                  <opaque value="true"/>
+                  <preferredSize width="303" height="40"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <component id="2a9d1" class="javax.swing.JButton" binding="supportScreen_BackBT">
+                    <constraints/>
+                    <properties>
+                      <autoscrolls value="true"/>
+                      <borderPainted value="false"/>
+                      <enabled value="true"/>
+                      <focusPainted value="false"/>
+                      <font name="Consolas" size="14" style="0"/>
+                      <preferredSize width="114" height="40"/>
+                      <text value="Back"/>
+                      <toolTipText value="This button leads to previous page"/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <grid id="40447" layout-manager="FlowLayout" hgap="0" vgap="0" flow-align="2">
+                <constraints>
+                  <grid row="0" column="5" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <minimumSize width="164" height="40"/>
+                  <preferredSize width="164" height="40"/>
+                </properties>
+                <border type="none"/>
+                <children/>
+              </grid>
+              <grid id="cea01" layout-manager="FlowLayout" hgap="0" vgap="0" flow-align="1">
+                <constraints>
+                  <grid row="1" column="1" row-span="1" col-span="5" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                    <minimum-size width="-1" height="20"/>
+                    <preferred-size width="-1" height="20"/>
+                    <maximum-size width="-1" height="20"/>
+                  </grid>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="b9f7f" class="javax.swing.JLabel">
+                    <constraints/>
+                    <properties>
+                      <font name="DialogInput" size="10"/>
+                      <text value="Copyright © 2018. Domantas Giedraitis (Navus) All rights reserved. "/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <hspacer id="93fa6">
+                <constraints>
+                  <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+            </children>
+          </grid>
+          <grid id="93b5d" layout-manager="FlowLayout" hgap="0" vgap="0" flow-align="1">
+            <constraints border-constraint="North"/>
+            <properties>
+              <minimumSize width="-1" height="300"/>
+              <preferredSize width="-1" height="300"/>
+              <requestFocusEnabled value="true"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="34ecf" class="javax.swing.JLabel">
+                <constraints/>
+                <properties>
+                  <icon value="Sprites/contact-us.png"/>
+                  <text value=""/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="58b1b" layout-manager="BorderLayout" hgap="10" vgap="10">
+            <constraints border-constraint="Center"/>
+            <properties>
+              <enabled value="true"/>
+              <focusable value="true"/>
+              <minimumSize width="-1" height="-1"/>
+              <preferredSize width="-1" height="-1"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <grid id="c4e55" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="0" vgap="20">
+                <margin top="20" left="100" bottom="20" right="20"/>
+                <constraints border-constraint="Center"/>
+                <properties>
+                  <minimumSize width="-1" height="100"/>
+                  <preferredSize width="-1" height="450"/>
+                  <requestFocusEnabled value="false"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <grid id="35f58" layout-manager="GridLayoutManager" row-count="4" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+                    <margin top="0" left="0" bottom="0" right="0"/>
+                    <constraints>
+                      <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="1" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                        <minimum-size width="300" height="-1"/>
+                        <preferred-size width="300" height="-1"/>
+                      </grid>
+                    </constraints>
+                    <properties/>
+                    <border type="none"/>
+                    <children>
+                      <component id="71728" class="javax.swing.JLabel">
+                        <constraints>
+                          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                        <properties>
+                          <font name="DialogInput" size="14"/>
+                          <text value="Simple Zillionaire"/>
+                        </properties>
+                      </component>
+                      <component id="20863" class="javax.swing.JLabel">
+                        <constraints>
+                          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                        <properties>
+                          <font name="DialogInput" size="14"/>
+                          <text value="Facebook : "/>
+                        </properties>
+                      </component>
+                      <component id="83ac8" class="javax.swing.JLabel">
+                        <constraints>
+                          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                        <properties>
+                          <font name="DialogInput" size="14"/>
+                          <text value="Address : "/>
+                        </properties>
+                      </component>
+                      <component id="a9609" class="javax.swing.JLabel">
+                        <constraints>
+                          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                        <properties>
+                          <font name="DialogInput" size="14"/>
+                          <text value="To Be Confirmed"/>
+                        </properties>
+                      </component>
+                      <component id="f88d1" class="javax.swing.JLabel">
+                        <constraints>
+                          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                        <properties>
+                          <font name="DialogInput" size="14"/>
+                          <text value="D.Giedraitis7@gmail.com"/>
+                        </properties>
+                      </component>
+                      <component id="630f9" class="javax.swing.JLabel">
+                        <constraints>
+                          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                        <properties>
+                          <font name="DialogInput" size="14"/>
+                          <text value="Email : "/>
+                        </properties>
+                      </component>
+                      <component id="519d6" class="javax.swing.JLabel">
+                        <constraints>
+                          <grid row="0" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                        <properties>
+                          <font name="Courier New" size="26" style="1"/>
+                          <text value="Contact Us"/>
+                        </properties>
+                      </component>
+                    </children>
+                  </grid>
+                  <hspacer id="e2067">
+                    <constraints>
+                      <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                  </hspacer>
+                </children>
+              </grid>
+            </children>
+          </grid>
+        </children>
+      </grid>
+      <grid id="b7a5" binding="introScreen" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints>
+          <card name="intro"/>
+        </constraints>
+        <properties>
+          <background color="-1513240"/>
+          <enabled value="true"/>
+          <minimumSize width="-1" height="-1"/>
+          <preferredSize width="-1" height="-1"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <grid id="3bfa6" layout-manager="FlowLayout" hgap="0" vgap="0" flow-align="1">
+            <constraints border-constraint="North"/>
+            <properties>
+              <minimumSize width="-1" height="326"/>
+              <preferredSize width="-1" height="326"/>
+              <requestFocusEnabled value="true"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="c173" class="javax.swing.JLabel">
+                <constraints/>
+                <properties>
+                  <autoscrolls value="false"/>
+                  <doubleBuffered value="true"/>
+                  <focusTraversalPolicyProvider value="false"/>
+                  <font name="Algerian" size="72" style="0"/>
+                  <horizontalAlignment value="0"/>
+                  <horizontalTextPosition value="0"/>
+                  <icon value="Sprites/LogoV2.png"/>
+                  <iconTextGap value="5"/>
+                  <inheritsPopupMenu value="true"/>
+                  <opaque value="true"/>
+                  <text value=""/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="bd5d6" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints border-constraint="Center"/>
+            <properties>
+              <enabled value="true"/>
+              <focusable value="true"/>
+              <minimumSize width="-1" height="-1"/>
+              <preferredSize width="-1" height="-1"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <grid id="5d8ec" layout-manager="GridLayoutManager" row-count="4" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="0" vgap="30">
+                <margin top="20" left="100" bottom="20" right="100"/>
+                <constraints border-constraint="Center"/>
+                <properties>
+                  <minimumSize width="-1" height="100"/>
+                  <preferredSize width="-1" height="450"/>
+                  <requestFocusEnabled value="false"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <vspacer id="8c09e">
+                    <constraints>
+                      <grid row="3" column="0" row-span="1" col-span="2" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                  </vspacer>
+                  <grid id="b11a7" layout-manager="BorderLayout" hgap="0" vgap="0">
+                    <constraints>
+                      <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                    <properties/>
+                    <border type="none"/>
+                    <children>
+                      <component id="c537d" class="javax.swing.JSlider" binding="playerAmountSlider">
+                        <constraints border-constraint="Center"/>
+                        <properties>
+                          <foreground color="-15007530"/>
+                          <majorTickSpacing value="1"/>
+                          <maximum value="8"/>
+                          <minimum value="1"/>
+                          <orientation value="0"/>
+                          <paintLabels value="false"/>
+                          <paintTicks value="true"/>
+                          <paintTrack value="true"/>
+                          <preferredSize width="700" height="42"/>
+                          <requestFocusEnabled value="false"/>
+                          <snapToTicks value="true"/>
+                          <value value="2"/>
+                          <valueIsAdjusting value="true"/>
+                        </properties>
+                      </component>
+                      <component id="2860a" class="javax.swing.JLabel" binding="selectedPlayersLabel">
+                        <constraints border-constraint="South"/>
+                        <properties>
+                          <font name="Courier New" size="14" style="1"/>
+                          <horizontalAlignment value="0"/>
+                          <horizontalTextPosition value="0"/>
+                          <text value="Players Amount : 1"/>
+                          <verticalAlignment value="1"/>
+                          <verticalTextPosition value="1"/>
+                        </properties>
+                      </component>
+                    </children>
+                  </grid>
+                  <component id="8f369" class="javax.swing.JButton" binding="developerModeButton">
+                    <constraints>
+                      <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false">
+                        <minimum-size width="4" height="4"/>
+                        <preferred-size width="4" height="4"/>
+                        <maximum-size width="4" height="4"/>
+                      </grid>
+                    </constraints>
+                    <properties>
+                      <horizontalAlignment value="2"/>
+                      <horizontalTextPosition value="2"/>
+                      <margin top="0" left="0" bottom="0" right="0"/>
+                      <maximumSize width="10" height="1"/>
+                      <minimumSize width="10" height="1"/>
+                      <opaque value="true"/>
+                      <preferredSize width="10" height="1"/>
+                      <text value="Developer Mode"/>
+                    </properties>
+                  </component>
+                  <component id="58b96" class="javax.swing.JLabel">
+                    <constraints>
+                      <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                    <properties>
+                      <font name="Courier New" size="18" style="1"/>
+                      <horizontalAlignment value="0"/>
+                      <horizontalTextPosition value="0"/>
+                      <text value="Choose players amount"/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+            </children>
+          </grid>
+          <grid id="af15e" layout-manager="GridLayoutManager" row-count="2" column-count="6" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="30"/>
+            <constraints border-constraint="South"/>
+            <properties>
+              <minimumSize width="-1" height="50"/>
+              <preferredSize width="-1" height="75"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <grid id="7c225" layout-manager="FlowLayout" hgap="35" vgap="0" flow-align="0">
+                <constraints>
+                  <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="8" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <minimumSize width="239" height="40"/>
+                  <opaque value="true"/>
+                  <preferredSize width="303" height="40"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <component id="3330c" class="javax.swing.JButton" binding="introSupport_BT">
+                    <constraints/>
+                    <properties>
+                      <autoscrolls value="true"/>
+                      <borderPainted value="false"/>
+                      <enabled value="true"/>
+                      <focusPainted value="false"/>
+                      <font name="Consolas" size="14" style="0"/>
+                      <preferredSize width="114" height="40"/>
+                      <text value="Support"/>
+                      <toolTipText value="There you can find support, often asked Questions and Answers(Q&amp;A) and contact details ! "/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <grid id="74c68" layout-manager="FlowLayout" hgap="0" vgap="0" flow-align="2">
+                <constraints>
+                  <grid row="0" column="4" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <minimumSize width="164" height="40"/>
+                  <preferredSize width="164" height="40"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <component id="9e359" class="javax.swing.JButton" binding="startLoopBT">
+                    <constraints/>
+                    <properties>
+                      <actionCommand value="next screen"/>
+                      <autoscrolls value="true"/>
+                      <borderPainted value="false"/>
+                      <contentAreaFilled value="true"/>
+                      <defaultCapable value="true"/>
+                      <doubleBuffered value="false"/>
+                      <enabled value="true"/>
+                      <focusCycleRoot value="false"/>
+                      <focusPainted value="false"/>
+                      <focusTraversalPolicyProvider value="false"/>
+                      <focusable value="true"/>
+                      <font name="Consolas" size="14" style="0"/>
+                      <horizontalAlignment value="0"/>
+                      <preferredSize width="114" height="40"/>
+                      <text value="Start "/>
+                      <toolTipText value="Are you ready to win? "/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <grid id="43e07" layout-manager="BorderLayout" hgap="0" vgap="0">
+                <constraints>
+                  <grid row="1" column="1" row-span="1" col-span="4" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                    <minimum-size width="-1" height="20"/>
+                    <preferred-size width="-1" height="20"/>
+                    <maximum-size width="-1" height="20"/>
+                  </grid>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="d9ead" class="javax.swing.JLabel">
+                    <constraints border-constraint="Center"/>
+                    <properties>
+                      <font name="DialogInput" size="10"/>
+                      <horizontalAlignment value="0"/>
+                      <horizontalTextPosition value="0"/>
+                      <text value="Copyright © 2018. Domantas Giedraitis (Navus) All rights reserved. "/>
+                      <verticalAlignment value="0"/>
+                      <verticalTextPosition value="0"/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <hspacer id="ab141">
+                <constraints>
+                  <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+            </children>
+          </grid>
+        </children>
+      </grid>
+      <grid id="d688b" binding="userInputScreen" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints>
+          <card name="userInputs"/>
+        </constraints>
+        <properties>
+          <background color="-13241856"/>
+          <enabled value="true"/>
+          <minimumSize width="-1" height="-1"/>
+          <preferredSize width="-1" height="-1"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <grid id="bd597" layout-manager="FlowLayout" hgap="0" vgap="0" flow-align="1">
+            <constraints border-constraint="North"/>
+            <properties>
+              <minimumSize width="-1" height="326"/>
+              <preferredSize width="-1" height="326"/>
+              <requestFocusEnabled value="true"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="cf5c7" class="javax.swing.JLabel">
+                <constraints/>
+                <properties>
+                  <autoscrolls value="false"/>
+                  <doubleBuffered value="true"/>
+                  <focusTraversalPolicyProvider value="false"/>
+                  <font name="Algerian" size="72" style="0"/>
+                  <horizontalAlignment value="0"/>
+                  <horizontalTextPosition value="0"/>
+                  <icon value="Sprites/LogoV2.png"/>
+                  <iconTextGap value="5"/>
+                  <inheritsPopupMenu value="true"/>
+                  <maximumSize width="1000" height="326"/>
+                  <minimumSize width="1000" height="326"/>
+                  <opaque value="false"/>
+                  <preferredSize width="1000" height="326"/>
+                  <text value=""/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="5d36b" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints border-constraint="Center"/>
+            <properties>
+              <enabled value="true"/>
+              <focusable value="true"/>
+              <minimumSize width="-1" height="-1"/>
+              <opaque value="true"/>
+              <preferredSize width="-1" height="-1"/>
+              <requestFocusEnabled value="false"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <grid id="fa0d7" layout-manager="BorderLayout" hgap="0" vgap="0">
+                <constraints border-constraint="Center"/>
+                <properties>
+                  <minimumSize width="640" height="100"/>
+                  <opaque value="true"/>
+                  <preferredSize width="1000" height="450"/>
+                  <requestFocusEnabled value="false"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <component id="fcab0" class="javax.swing.JLabel" binding="playerPreferencesLabel">
+                    <constraints border-constraint="North"/>
+                    <properties>
+                      <alignmentX value="0.0"/>
+                      <font name="Courier New" size="22" style="1"/>
+                      <horizontalAlignment value="0"/>
+                      <horizontalTextPosition value="0"/>
+                      <iconTextGap value="4"/>
+                      <maximumSize width="96" height="60"/>
+                      <minimumSize width="96" height="60"/>
+                      <preferredSize width="96" height="60"/>
+                      <text value="Player 1"/>
+                      <verticalTextPosition value="0"/>
+                    </properties>
+                  </component>
+                  <grid id="8863f" layout-manager="GridLayoutManager" row-count="2" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="40" vgap="10">
+                    <margin top="0" left="60" bottom="20" right="60"/>
+                    <constraints border-constraint="Center"/>
+                    <properties>
+                      <minimumSize width="-1" height="-1"/>
+                      <opaque value="true"/>
+                      <preferredSize width="-1" height="-1"/>
+                      <requestFocusEnabled value="false"/>
+                    </properties>
+                    <border type="none"/>
+                    <children>
+                      <component id="da6b7" class="javax.swing.JLabel">
+                        <constraints>
+                          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                        <properties>
+                          <font name="Courier New" size="14"/>
+                          <text value="Username"/>
+                        </properties>
+                      </component>
+                      <component id="1cb4f" class="javax.swing.JTextField" binding="usernameTF">
+                        <constraints>
+                          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                            <preferred-size width="150" height="-1"/>
+                          </grid>
+                        </constraints>
+                        <properties>
+                          <text value=""/>
+                        </properties>
+                      </component>
+                      <component id="fae23" class="javax.swing.JLabel">
+                        <constraints>
+                          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="9" fill="0" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                        <properties>
+                          <font name="Courier New" size="14"/>
+                          <text value="Category:"/>
+                        </properties>
+                      </component>
+                      <scrollpane id="ac8b5">
+                        <constraints>
+                          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                        <properties/>
+                        <border type="none"/>
+                        <children>
+                          <component id="1d89b" class="javax.swing.JList" binding="categoryList" custom-create="true">
+                            <constraints/>
+                            <properties>
+                              <dragEnabled value="false"/>
+                              <layoutOrientation value="1"/>
+                              <selectedIndex value="-1"/>
+                              <selectionBackground color="-2701996"/>
+                              <selectionMode value="0"/>
+                              <visibleRowCount value="6"/>
+                            </properties>
+                          </component>
+                        </children>
+                      </scrollpane>
+                    </children>
+                  </grid>
+                </children>
+              </grid>
+            </children>
+          </grid>
+          <grid id="7071" layout-manager="GridLayoutManager" row-count="2" column-count="8" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="30"/>
+            <constraints border-constraint="South"/>
+            <properties>
+              <minimumSize width="-1" height="50"/>
+              <preferredSize width="-1" height="75"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <grid id="30dad" layout-manager="FlowLayout" hgap="20" vgap="5" flow-align="1">
+                <constraints>
+                  <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                    <preferred-size width="-1" height="300"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <minimumSize width="239" height="40"/>
+                  <opaque value="true"/>
+                  <preferredSize width="303" height="40"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <component id="ca30e" class="javax.swing.JButton" binding="backToIntroBT">
+                    <constraints/>
+                    <properties>
+                      <autoscrolls value="true"/>
+                      <borderPainted value="false"/>
+                      <enabled value="true"/>
+                      <focusPainted value="false"/>
+                      <font name="Consolas" size="14" style="0"/>
+                      <preferredSize width="114" height="40"/>
+                      <text value="Back"/>
+                      <toolTipText value="This button leads to previous page"/>
+                    </properties>
+                  </component>
+                  <component id="f4aee" class="javax.swing.JButton" binding="userInput_SupportBT">
+                    <constraints/>
+                    <properties>
+                      <autoscrolls value="true"/>
+                      <borderPainted value="false"/>
+                      <enabled value="true"/>
+                      <focusPainted value="false"/>
+                      <font name="Consolas" size="14" style="0"/>
+                      <preferredSize width="114" height="40"/>
+                      <text value="Support"/>
+                      <toolTipText value="There you can find support, often asked Questions and Answers(Q&amp;A) and contact details ! "/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <grid id="931ad" layout-manager="FlowLayout" hgap="0" vgap="0" flow-align="2">
+                <constraints>
+                  <grid row="0" column="6" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <minimumSize width="164" height="40"/>
+                  <preferredSize width="164" height="40"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <component id="90ecd" class="javax.swing.JButton" binding="startGameBT">
+                    <constraints/>
+                    <properties>
+                      <actionCommand value="startGame"/>
+                      <autoscrolls value="true"/>
+                      <borderPainted value="false"/>
+                      <contentAreaFilled value="true"/>
+                      <defaultCapable value="true"/>
+                      <doubleBuffered value="false"/>
+                      <enabled value="true"/>
+                      <focusCycleRoot value="false"/>
+                      <focusPainted value="false"/>
+                      <focusTraversalPolicyProvider value="false"/>
+                      <focusable value="true"/>
+                      <font name="Consolas" size="14" style="0"/>
+                      <horizontalAlignment value="0"/>
+                      <preferredSize width="114" height="40"/>
+                      <text value="Play Game"/>
+                      <toolTipText value="Prove you knowledge!"/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <grid id="e174d" layout-manager="FlowLayout" hgap="0" vgap="0" flow-align="1">
+                <constraints>
+                  <grid row="1" column="1" row-span="1" col-span="6" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                    <minimum-size width="-1" height="20"/>
+                    <preferred-size width="-1" height="20"/>
+                    <maximum-size width="-1" height="20"/>
+                  </grid>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="7c28e" class="javax.swing.JLabel">
+                    <constraints/>
+                    <properties>
+                      <font name="DialogInput" size="10"/>
+                      <text value="Copyright © 2018. Domantas Giedraitis (Navus) All rights reserved. "/>
+                    </properties>
+                  </component>
+                </children>
+              </grid>
+              <hspacer id="2f876">
+                <constraints>
+                  <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+              <component id="43692" class="javax.swing.JButton" binding="exitGameplaysButton">
+                <constraints>
+                  <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <autoscrolls value="true"/>
+                  <borderPainted value="false"/>
+                  <enabled value="true"/>
+                  <focusPainted value="false"/>
+                  <font name="Consolas" size="14" style="0"/>
+                  <preferredSize width="114" height="40"/>
+                  <text value="Exit Gameplays"/>
+                  <toolTipText value="Exits Current Gameplays and shows result table"/>
+                  <visible value="false"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+        </children>
+      </grid>
+      <grid id="2a410" binding="winnerScreen" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints>
+          <card name="win"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <grid id="3ce9" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints border-constraint="Center"/>
+            <properties>
+              <background color="-855310"/>
+              <enabled value="false"/>
+              <minimumSize width="900" height="521"/>
+              <preferredSize width="900" height="511"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <grid id="28d6d" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="0" vgap="-1">
+                <margin top="0" left="0" bottom="0" right="0"/>
+                <constraints border-constraint="South"/>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <grid id="41fe2" layout-manager="FlowLayout" hgap="0" vgap="0" flow-align="1">
+                    <constraints>
+                      <grid row="0" column="0" row-span="1" col-span="2" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                        <minimum-size width="-1" height="20"/>
+                        <preferred-size width="-1" height="20"/>
+                        <maximum-size width="-1" height="20"/>
+                      </grid>
+                    </constraints>
+                    <properties>
+                      <background color="-14044330"/>
+                    </properties>
+                    <border type="none"/>
+                    <children>
+                      <component id="d7644" class="javax.swing.JLabel">
+                        <constraints/>
+                        <properties>
+                          <font name="DialogInput" size="10"/>
+                          <text value="Copyright © 2018. Domantas Giedraitis (Navus) All rights reserved. "/>
+                        </properties>
+                      </component>
+                    </children>
+                  </grid>
+                </children>
+              </grid>
+              <grid id="ffac5" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+                <margin top="0" left="0" bottom="0" right="0"/>
+                <constraints border-constraint="Center"/>
+                <properties>
+                  <maximumSize width="2147483647" height="300"/>
+                  <minimumSize width="840" height="300"/>
+                  <preferredSize width="1000" height="300"/>
+                </properties>
+                <border type="none"/>
+                <children>
+                  <grid id="bfc07" layout-manager="GridLayoutManager" row-count="8" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="0" vgap="20">
+                    <margin top="0" left="0" bottom="0" right="0"/>
+                    <constraints>
+                      <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                    <properties>
+                      <background color="-14044330"/>
+                    </properties>
+                    <border type="none"/>
+                    <children>
+                      <component id="da207" class="javax.swing.JLabel">
+                        <constraints>
+                          <grid row="1" column="0" row-span="6" col-span="2" vsize-policy="0" hsize-policy="0" anchor="1" fill="0" indent="0" use-parent-layout="false">
+                            <minimum-size width="-1" height="153"/>
+                            <preferred-size width="-1" height="153"/>
+                          </grid>
+                        </constraints>
+                        <properties>
+                          <horizontalAlignment value="0"/>
+                          <horizontalTextPosition value="0"/>
+                          <icon value="Sprites/1000000.png"/>
+                          <text value=""/>
+                          <verticalAlignment value="1"/>
+                          <verticalTextPosition value="1"/>
+                        </properties>
+                      </component>
+                      <component id="d5c31" class="javax.swing.JLabel">
+                        <constraints>
+                          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="2" fill="0" indent="0" use-parent-layout="false">
+                            <minimum-size width="-1" height="80"/>
+                            <preferred-size width="-1" height="80"/>
+                            <maximum-size width="-1" height="80"/>
+                          </grid>
+                        </constraints>
+                        <properties>
+                          <focusable value="true"/>
+                          <font name="Bodoni MT Condensed" size="75" style="1"/>
+                          <foreground color="-10496"/>
+                          <horizontalAlignment value="0"/>
+                          <horizontalTextPosition value="0"/>
+                          <text value="YOU WON "/>
+                          <verticalAlignment value="3"/>
+                          <verticalTextPosition value="3"/>
+                        </properties>
+                      </component>
+                      <component id="a2427" class="javax.swing.JButton" binding="winnerContinueButton">
+                        <constraints>
+                          <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                        <properties>
+                          <autoscrolls value="true"/>
+                          <borderPainted value="false"/>
+                          <enabled value="true"/>
+                          <focusPainted value="false"/>
+                          <font name="Consolas" size="14" style="0"/>
+                          <horizontalTextPosition value="0"/>
+                          <preferredSize width="114" height="40"/>
+                          <text value="Continue"/>
+                          <toolTipText value="Press button to continue gameplay"/>
+                        </properties>
+                      </component>
+                      <vspacer id="6f65c">
+                        <constraints>
+                          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                        </constraints>
+                      </vspacer>
+                      <component id="c9bcb" class="javax.swing.JLabel" binding="gifLabel">
+                        <constraints>
+                          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="2" fill="0" indent="0" use-parent-layout="false">
+                            <preferred-size width="400" height="400"/>
+                          </grid>
+                        </constraints>
+                        <properties>
+                          <horizontalAlignment value="0"/>
+                          <horizontalTextPosition value="0"/>
+                          <icon value="Sprites/applause.gif"/>
+                          <minimumSize width="300" height="300"/>
+                          <preferredSize width="300" height="300"/>
+                          <requestFocusEnabled value="true"/>
+                          <text value=""/>
+                          <verticalAlignment value="3"/>
+                          <verticalTextPosition value="3"/>
+                        </properties>
+                      </component>
+                    </children>
+                  </grid>
+                </children>
+              </grid>
+            </children>
+          </grid>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>

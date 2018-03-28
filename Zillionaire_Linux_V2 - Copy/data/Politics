@@ -1,0 +1,186 @@
+[
+  {
+    "Answers": [
+      {
+        "Answer": "Lithuania",
+        "Rating": 18
+      },
+      {
+        "Answer": "China",
+        "Rating": 7
+      },
+      {
+        "Answer": "Albania",
+        "Rating": 16
+      },
+      {
+        "Answer": "Egypt",
+        "Rating": 59
+      }
+    ],
+    "Question": "Farouk was king of which country?",
+    "Level": 0,
+    "id": 0
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "The electorate",
+        "Rating": 8
+      },
+      {
+        "Answer": "The Duke of Edinburgh",
+        "Rating": 16
+      },
+      {
+        "Answer": "The Lord Chancellor",
+        "Rating": 13
+      },
+      {
+        "Answer": "The Prime MInister",
+        "Rating": 63
+      }
+    ],
+    "Question": "Which of the following is able to choose the date of the General Election?",
+    "Level": 0,
+    "id": 1
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "The Electorate",
+        "Rating": 9
+      },
+      {
+        "Answer": "The Duke of Edinburgh",
+        "Rating": 25
+      },
+      {
+        "Answer": "The Prime Minister",
+        "Rating": 56
+      },
+      {
+        "Answer": "The Lord Chancellor",
+        "Rating": 10
+      }
+    ],
+    "Question": "Which of the following is able to choose the date of the General Election?",
+    "Level": 0,
+    "id": 2
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "At least once every 3 years",
+        "Rating": 14
+      },
+      {
+        "Answer": "Every 4 years",
+        "Rating": 16
+      },
+      {
+        "Answer": "Every 2 years",
+        "Rating": 0
+      },
+      {
+        "Answer": "At least once every 5 years",
+        "Rating": 70
+      }
+    ],
+    "Question": "How often does an election have to be held in the UK?",
+    "Level": 0,
+    "id": 3
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "14",
+        "Rating": 0
+      },
+      {
+        "Answer": "18",
+        "Rating": 75
+      },
+      {
+        "Answer": "16",
+        "Rating": 25
+      },
+      {
+        "Answer": "21",
+        "Rating": 0
+      }
+    ],
+    "Question": "What Age is required to vote in UK? ",
+    "Level": 0,
+    "id": 4
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "Polling Station",
+        "Rating": 70
+      },
+      {
+        "Answer": "Voting Station",
+        "Rating": 25
+      },
+      {
+        "Answer": "The Hustings",
+        "Rating": 4
+      },
+      {
+        "Answer": "Primary School",
+        "Rating": 1
+      }
+    ],
+    "Question": " In the UK, what is the official name given to the place where people go to vote?",
+    "Level": 0,
+    "id": 5
+  },
+  {
+    "Answers": [
+      {
+        "Answer": "The Liberal Democrats",
+        "Rating": 12
+      },
+      {
+        "Answer": "All of Them",
+        "Rating": 68
+      },
+      {
+        "Answer": "The Scottish National Party",
+        "Rating": 11
+      },
+      {
+        "Answer": "The Green Party",
+        "Rating": 9
+      }
+    ],
+    "Question": "Which of the following are British political parties?",
+    "Level": 1,
+    "id": 6
+  },
+  {
+    "id": 7,
+    "Question": "What name is given to the Ministers in the Scottish Parliament?",
+    "Level": 1,
+    "Answers": [
+      {
+        "Answer": "The Tartan Army",
+        "Rating": 6
+      },
+      {
+        "Answer": "The Scottish Office",
+        "Rating": 26
+      },
+      {
+        "Answer": "The Scottish Departmen",
+        "Rating": 2
+      },
+      {
+        "Answer": "The Scottish Government",
+        "Rating": 66
+      }
+    ]
+  }
+]
